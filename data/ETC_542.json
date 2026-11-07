@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Festival Security",
+  "card": {
+    "id": "ETC_542",
+    "dbfId": 92240,
+    "name": "축제 보안 요원",
+    "text": "<b>도발</b>, <b>피날레:</b> 모든 적\n하수인이 이 하수인을\n공격하게 만듭니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 2,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-101_M.tif:d2f4335b5a80496987e7319aef61058c",
+    "flavor": "공연장에서 사고가 일어났다고요? 알겠습니다. 일 년 안에는 도착할 거예요.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2820,
+        "name": "피날레",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>도발</b>, <b>피날레:</b> 모든 적\n하수인이 이 하수인을\n공격하게 만듭니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

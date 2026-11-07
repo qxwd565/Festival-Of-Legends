@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Stranglethorn Heart",
+  "card": {
+    "id": "ETC_208",
+    "dbfId": 97363,
+    "name": "가시덤불 심장",
+    "text": "<b>교환성</b>\n비용이 (5) 이상인\n모든 아군 야수를 부활시킵니다.",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 8,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-125_S.tif:531b53cb0c9f47659c0bc5ff94608489",
+    "flavor": "사냥퀘 깨기 어려웠죠? 그래서 리젠시켜 드렸습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>교환성</b>\n비용이 (5) 이상인\n모든 아군 야수를 부활시킵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

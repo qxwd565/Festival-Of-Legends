@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Remixed Musician",
+  "card": {
+    "id": "JAM_033",
+    "dbfId": 95464,
+    "name": "재편 음악가",
+    "text": "<b>속공</b>, 내 손에 있을 때\n매 턴마다 바뀌는 추가 효과를 얻습니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-254_M.tif:d00b1c7961d64f578a019d0c6021e116",
+    "flavor": "제가 아는 모든 음유시인과 마찬가지로 혼돈 중립 만능인입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 3
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>속공</b>, 내 손에 있을 때\n매 턴마다 바뀌는 추가 효과를 얻습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    95465,
+    95466,
+    95467,
+    95468
+  ],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

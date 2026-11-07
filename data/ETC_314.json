@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Harmonic Pop",
+  "card": {
+    "id": "ETC_314",
+    "dbfId": 90683,
+    "name": "조화로운 팝",
+    "text": "모든 하수인에게 피해를 $3 줍니다.\n6/6 팝스타를 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-157_S.tif:460172b5b2a24a6ba5b12aff07e26626",
+    "flavor": "노래면 노래, 춤이면 춤, 랩이면 랩! 3인조 걸그룹의 환상적인 팝송!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "모든 하수인에게 피해를 $3 줍니다.\n6/6 팝스타를 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    97461,
+    97459
+  ],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

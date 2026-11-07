@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Ancient",
+  "card": {
+    "id": "ETC_387bt",
+    "dbfId": 97612,
+    "name": "고대정령",
+    "text": "",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-175_M.tif:24f23808ef6b4a5b8f1909bbf71f592b",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2871,
+        "name": "게임 태그 2871",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "",
+    "nativeTextBuilder": 0
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Static Waveform",
+  "card": {
+    "id": "ETC_089",
+    "dbfId": 91175,
+    "name": "잡음 파형정령",
+    "text": "매 턴이 시작될 때,\n공격력 또는 생명력을\n1 잃습니다.\n<i>(무작위로 선택)</i>",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 5,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-099_M.tif:778f34a8cac84cb492292f6726170d64",
+    "flavor": "네 열정을 <i>보여주거라</i>! 소리 질러!",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]매 턴이 시작될 때,\n공격력 또는 생명력을\n1 잃습니다.\n<i>(무작위로 선택)</i>",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

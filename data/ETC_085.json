@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Symphony of Sins",
+  "card": {
+    "id": "ETC_085",
+    "dbfId": 91001,
+    "name": "죄악의 교향곡",
+    "text": "악장을 <b>발견</b>하여 냅니다. 다른 악장 여섯을 내 덱에 섞어 넣습니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-178_S.tif:eff9a6abffae4d60ab0131050e58bc6e",
+    "flavor": "최종 보스전에 끝내주게 어울리는 음악입니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "악장을 <b>발견</b>하여 냅니다. 다른 악장 여섯을 내 덱에 섞어 넣습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    91963,
+    91964,
+    91965,
+    94743,
+    92042,
+    94744,
+    94745,
+    94746
+  ],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

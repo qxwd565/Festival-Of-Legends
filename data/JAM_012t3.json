@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Blazing Totemcarver",
+  "card": {
+    "id": "JAM_012t3",
+    "dbfId": 95827,
+    "name": "화끈한 토템술사",
+    "text": "<b>전투의 함성:</b> 0/3\n불꽃의 토템을 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-219_M.tif:f110d03bfcb74046bc98f56a16b13547",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 435,
+        "name": "변신 원본 카드",
+        "value": 95454
+      },
+      {
+        "id": 2165,
+        "name": "게임 태그 2165",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>전투의 함성:</b> 0/3\n불꽃의 토템을 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> 0/3\n불꽃의 토템을 소환합니다.",
+    "nativeTextBuilder": 6
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Jazz Bass",
+  "card": {
+    "id": "ETC_813",
+    "dbfId": 90781,
+    "name": "재즈 베이스",
+    "text": "<b>죽음의 메아리:</b> 내 다음 주문의\n비용이 (1) 감소합니다.\n<i>(장착하고 있을 때 <b>과부하</b>에\n걸리면 강화됩니다!)</i>",
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 0,
+    "armor": 0,
+    "durability": 2,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-054_W.tif:c2ea3703eaeb40cf816d33de1f74af35",
+    "flavor": "이 베이스를 만들 때 <i>새들은</i> 희생되지 않았습니다.",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 다음 주문의\n비용이 (@) 감소합니다.\n<i>(장착하고 있을 때 <b>과부하</b>에\n걸리면 강화됩니다!)</i>",
+    "nativeTextBuilder": 7
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

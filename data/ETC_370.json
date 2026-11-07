@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Pack the House",
+  "card": {
+    "id": "ETC_370",
+    "dbfId": 92335,
+    "name": "만석 공연",
+    "text": "비용이 6, 5, 4, 3인 무작위 하수인을 소환합니다.\n<b>과부하:</b> (2)",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-057_S.tif:db165717e0c94f8fa45a08b7a374ec53",
+    "flavor": "좌석이 만 개면 표가 하나도 안 팔려도 만석 공연입니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2731,
+        "name": "게임 태그 2731",
+        "value": 2
+      }
+    ],
+    "nativeRawText": "비용이 6, 5, 4, 3인 무작위 하수인을 소환합니다.\n<b>과부하:</b> (2)",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

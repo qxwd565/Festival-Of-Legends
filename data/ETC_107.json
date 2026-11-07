@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Rowdy Fan",
+  "card": {
+    "id": "ETC_107",
+    "dbfId": 92250,
+    "name": "난폭한 팬",
+    "text": "<b>전투의 함성:</b> 하수인을 선택합니다. 이 하수인이 살아있으면, 그 하수인이 공격력을 +4 얻습니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "COMMON",
+    "race": "가시멧돼지",
+    "races": [
+      "QUILBOAR"
+    ],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 1,
+    "health": 5,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-084_M.tif:c70cec0912674b39ae557148e346e7e7",
+    "flavor": "\"이 노래 너무 좋아. 네 명치를 한 대 세게 때려주고 싶을 만큼!\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 43
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 하수인을 선택합니다. 이 하수인이 살아있으면, 그 하수인이 공격력을 +4 얻습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

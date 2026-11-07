@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Drum Circle",
+  "card": {
+    "id": "ETC_373",
+    "dbfId": 94201,
+    "name": "드럼 연주단",
+    "text": "<b>선택 -</b> 2/2 나무정령을\n다섯 소환합니다. 또는\n내 하수인들에게 +2/+4와\n<b>도발</b>을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "NATURE",
+    "cost": 7,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": true,
+    "installed": true,
+    "portrait": "HS28-160_S.tif:ee28397f3cc741898986b8153aa0cede",
+    "flavor": "주위의 꽃들이 얼마나 잘 자랐는지를 보면 드럼 실력을 가늠할 수 있습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "[x]<b>선택 -</b> 2/2 나무정령을\n다섯 소환합니다. 또는\n내 하수인들에게 +2/+4와\n<b>도발</b>을 부여합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    97382,
+    97383,
+    91248
+  ],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

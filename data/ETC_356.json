@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Altered Chord",
+  "card": {
+    "id": "ETC_356",
+    "dbfId": 92222,
+    "name": "변형된 화음",
+    "text": "<b>생명력 흡수</b>\n하수인에게 피해를 $6 줍니다. 내가 <b>과부하</b>된 상태면, 비용이 (3) 감소합니다.",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1809,
+    "set": "BATTLE_OF_THE_BANDS",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "NATURE",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS28-136_S.tif:82c43e0b6e3e474b84d272876fd4e1e6",
+    "flavor": "왜 밴드나 관현악단에서 키도 안 맞추고 연주하는 음악가들을 그냥 두는지 도저히 이해가 안 됩니다. 여러분의 의견은 어떤가요?",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "<b>생명력 흡수</b>\n하수인에게 피해를 $6 줍니다. 내가 <b>과부하</b>된 상태면, 비용이 (3) 감소합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1809,
+    "slug": "festival-of-legends",
+    "name": "전설노래자랑",
+    "type": "expansion",
+    "englishName": "Festival Of Legends"
+  },
+  "setOrder": 12,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
