@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2023-04-12",
+    "status": "verified"
+  },
+  "prefixes": {
+    "ETC_": {
+      "date": "2023-04-12",
+      "status": "verified"
+    },
+    "JAM_": {
+      "date": "2023-06-01",
+      "status": "verified"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/news/23934449/26-0-patch-notes",
+    "mini": "https://hearthstone.blizzard.com/ko-kr/news/23957168"
+  }
+}
