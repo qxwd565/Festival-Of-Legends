@@ -1,0 +1,1018 @@
+{
+  "schema": 1,
+  "set": "Festival Of Legends",
+  "cards": {
+    "ETC_026": {
+      "dbfId": 87639,
+      "material": "golden/cards/ETC_026.json"
+    },
+    "ETC_028": {
+      "dbfId": 87642,
+      "material": "golden/cards/ETC_028.json"
+    },
+    "ETC_029": {
+      "dbfId": 87648,
+      "material": "golden/cards/ETC_029.json"
+    },
+    "ETC_029t": {
+      "dbfId": 87653,
+      "material": "golden/cards/ETC_029t.json"
+    },
+    "ETC_034": {
+      "dbfId": 87681,
+      "material": "golden/cards/ETC_034.json"
+    },
+    "ETC_035": {
+      "dbfId": 87682,
+      "material": "golden/cards/ETC_035.json"
+    },
+    "ETC_068": {
+      "dbfId": 90439,
+      "material": "golden/cards/ETC_068.json"
+    },
+    "ETC_069": {
+      "dbfId": 90440,
+      "material": "golden/cards/ETC_069.json"
+    },
+    "ETC_070": {
+      "dbfId": 90461,
+      "material": "golden/cards/ETC_070.json"
+    },
+    "ETC_070t": {
+      "dbfId": 90988,
+      "material": "golden/cards/ETC_070t.json"
+    },
+    "ETC_071": {
+      "dbfId": 90463,
+      "material": "golden/cards/ETC_071.json"
+    },
+    "ETC_072": {
+      "dbfId": 90561,
+      "material": "golden/cards/ETC_072.json"
+    },
+    "ETC_073": {
+      "dbfId": 90572,
+      "material": "golden/cards/ETC_073.json"
+    },
+    "ETC_074": {
+      "dbfId": 90583,
+      "material": "golden/cards/ETC_074.json"
+    },
+    "ETC_075": {
+      "dbfId": 90586,
+      "material": "golden/cards/ETC_075.json"
+    },
+    "ETC_076": {
+      "dbfId": 90591,
+      "material": "golden/cards/ETC_076.json"
+    },
+    "ETC_076t": {
+      "dbfId": 90593,
+      "material": "golden/cards/ETC_076t.json"
+    },
+    "ETC_077": {
+      "dbfId": 90600,
+      "material": "golden/cards/ETC_077.json"
+    },
+    "ETC_078": {
+      "dbfId": 90603,
+      "material": "golden/cards/ETC_078.json"
+    },
+    "ETC_078t": {
+      "dbfId": 94858,
+      "material": "golden/cards/ETC_078t.json"
+    },
+    "ETC_078t2": {
+      "dbfId": 96957,
+      "material": "golden/cards/ETC_078t2.json"
+    },
+    "ETC_079": {
+      "dbfId": 90606,
+      "material": "golden/cards/ETC_079.json"
+    },
+    "ETC_080": {
+      "dbfId": 90749,
+      "material": "golden/cards/ETC_080.json"
+    },
+    "ETC_081": {
+      "dbfId": 90854,
+      "material": "golden/cards/ETC_081.json"
+    },
+    "ETC_082": {
+      "dbfId": 90993,
+      "material": "golden/cards/ETC_082.json"
+    },
+    "ETC_083": {
+      "dbfId": 90994,
+      "material": "golden/cards/ETC_083.json"
+    },
+    "ETC_084": {
+      "dbfId": 90996,
+      "material": "golden/cards/ETC_084.json"
+    },
+    "ETC_085": {
+      "dbfId": 91001,
+      "material": "golden/cards/ETC_085.json"
+    },
+    "ETC_085t": {
+      "dbfId": 91963,
+      "material": "golden/cards/ETC_085t.json"
+    },
+    "ETC_085t2": {
+      "dbfId": 91964,
+      "material": "golden/cards/ETC_085t2.json"
+    },
+    "ETC_085t3": {
+      "dbfId": 91965,
+      "material": "golden/cards/ETC_085t3.json"
+    },
+    "ETC_085t4": {
+      "dbfId": 94743,
+      "material": "golden/cards/ETC_085t4.json"
+    },
+    "ETC_085t6": {
+      "dbfId": 92042,
+      "material": "golden/cards/ETC_085t6.json"
+    },
+    "ETC_085t7": {
+      "dbfId": 94744,
+      "material": "golden/cards/ETC_085t7.json"
+    },
+    "ETC_085t8": {
+      "dbfId": 94745,
+      "material": "golden/cards/ETC_085t8.json"
+    },
+    "ETC_086": {
+      "dbfId": 91076,
+      "material": "golden/cards/ETC_086.json"
+    },
+    "ETC_087": {
+      "dbfId": 91078,
+      "material": "golden/cards/ETC_087.json"
+    },
+    "ETC_088": {
+      "dbfId": 91080,
+      "material": "golden/cards/ETC_088.json"
+    },
+    "ETC_089": {
+      "dbfId": 91175,
+      "material": "golden/cards/ETC_089.json"
+    },
+    "ETC_098": {
+      "dbfId": 91511,
+      "material": "golden/cards/ETC_098.json"
+    },
+    "ETC_098t": {
+      "dbfId": 94860,
+      "material": "golden/cards/ETC_098t.json"
+    },
+    "ETC_099": {
+      "dbfId": 91659,
+      "material": "golden/cards/ETC_099.json"
+    },
+    "ETC_101": {
+      "dbfId": 91885,
+      "material": "golden/cards/ETC_101.json"
+    },
+    "ETC_102": {
+      "dbfId": 91986,
+      "material": "golden/cards/ETC_102.json"
+    },
+    "ETC_103": {
+      "dbfId": 91989,
+      "material": "golden/cards/ETC_103.json"
+    },
+    "ETC_104": {
+      "dbfId": 92243,
+      "material": "golden/cards/ETC_104.json"
+    },
+    "ETC_105": {
+      "dbfId": 92246,
+      "material": "golden/cards/ETC_105.json"
+    },
+    "ETC_106": {
+      "dbfId": 92249,
+      "material": "golden/cards/ETC_106.json"
+    },
+    "ETC_107": {
+      "dbfId": 92250,
+      "material": "golden/cards/ETC_107.json"
+    },
+    "ETC_108": {
+      "dbfId": 92252,
+      "material": "golden/cards/ETC_108.json"
+    },
+    "ETC_109": {
+      "dbfId": 92254,
+      "material": "golden/cards/ETC_109.json"
+    },
+    "ETC_110": {
+      "dbfId": 92256,
+      "material": "golden/cards/ETC_110.json"
+    },
+    "ETC_111": {
+      "dbfId": 92258,
+      "material": "golden/cards/ETC_111.json"
+    },
+    "ETC_113": {
+      "dbfId": 92332,
+      "material": "golden/cards/ETC_113.json"
+    },
+    "ETC_113t": {
+      "dbfId": 92333,
+      "material": "golden/cards/ETC_113t.json"
+    },
+    "ETC_121": {
+      "dbfId": 94248,
+      "material": "golden/cards/ETC_121.json"
+    },
+    "ETC_200": {
+      "dbfId": 97003,
+      "material": "golden/cards/ETC_200.json"
+    },
+    "ETC_201": {
+      "dbfId": 96996,
+      "material": "golden/cards/ETC_201.json"
+    },
+    "ETC_201t": {
+      "dbfId": 97434,
+      "material": "golden/cards/ETC_201t.json"
+    },
+    "ETC_201t2": {
+      "dbfId": 97435,
+      "material": "golden/cards/ETC_201t2.json"
+    },
+    "ETC_205": {
+      "dbfId": 97360,
+      "material": "golden/cards/ETC_205.json"
+    },
+    "ETC_206": {
+      "dbfId": 97361,
+      "material": "golden/cards/ETC_206.json"
+    },
+    "ETC_207": {
+      "dbfId": 97362,
+      "material": "golden/cards/ETC_207.json"
+    },
+    "ETC_207t": {
+      "dbfId": 97440,
+      "material": "golden/cards/ETC_207t.json"
+    },
+    "ETC_207t2": {
+      "dbfId": 97441,
+      "material": "golden/cards/ETC_207t2.json"
+    },
+    "ETC_208": {
+      "dbfId": 97363,
+      "material": "golden/cards/ETC_208.json"
+    },
+    "ETC_209": {
+      "dbfId": 97528,
+      "material": "golden/cards/ETC_209.json"
+    },
+    "ETC_210": {
+      "dbfId": 97532,
+      "material": "golden/cards/ETC_210.json"
+    },
+    "ETC_305": {
+      "dbfId": 90366,
+      "material": "golden/cards/ETC_305.json"
+    },
+    "ETC_312": {
+      "dbfId": 90681,
+      "material": "golden/cards/ETC_312.json"
+    },
+    "ETC_314": {
+      "dbfId": 90683,
+      "material": "golden/cards/ETC_314.json"
+    },
+    "ETC_314t": {
+      "dbfId": 97461,
+      "material": "golden/cards/ETC_314t.json"
+    },
+    "ETC_314t2": {
+      "dbfId": 97459,
+      "material": "golden/cards/ETC_314t2.json"
+    },
+    "ETC_316": {
+      "dbfId": 90687,
+      "material": "golden/cards/ETC_316.json"
+    },
+    "ETC_317": {
+      "dbfId": 90688,
+      "material": "golden/cards/ETC_317.json"
+    },
+    "ETC_318": {
+      "dbfId": 90689,
+      "material": "golden/cards/ETC_318.json"
+    },
+    "ETC_320": {
+      "dbfId": 90694,
+      "material": "golden/cards/ETC_320.json"
+    },
+    "ETC_320t": {
+      "dbfId": 94029,
+      "material": "golden/cards/ETC_320t.json"
+    },
+    "ETC_321": {
+      "dbfId": 90695,
+      "material": "golden/cards/ETC_321.json"
+    },
+    "ETC_324": {
+      "dbfId": 90698,
+      "material": "golden/cards/ETC_324.json"
+    },
+    "ETC_325": {
+      "dbfId": 90699,
+      "material": "golden/cards/ETC_325.json"
+    },
+    "ETC_326": {
+      "dbfId": 90700,
+      "material": "golden/cards/ETC_326.json"
+    },
+    "ETC_328": {
+      "dbfId": 90941,
+      "material": "golden/cards/ETC_328.json"
+    },
+    "ETC_329": {
+      "dbfId": 90944,
+      "material": "golden/cards/ETC_329.json"
+    },
+    "ETC_330": {
+      "dbfId": 90945,
+      "material": "golden/cards/ETC_330.json"
+    },
+    "ETC_332": {
+      "dbfId": 90952,
+      "material": "golden/cards/ETC_332.json"
+    },
+    "ETC_334": {
+      "dbfId": 90956,
+      "material": "golden/cards/ETC_334.json"
+    },
+    "ETC_335": {
+      "dbfId": 90959,
+      "material": "golden/cards/ETC_335.json"
+    },
+    "ETC_336": {
+      "dbfId": 90972,
+      "material": "golden/cards/ETC_336.json"
+    },
+    "ETC_337": {
+      "dbfId": 91066,
+      "material": "golden/cards/ETC_337.json"
+    },
+    "ETC_338": {
+      "dbfId": 91067,
+      "material": "golden/cards/ETC_338.json"
+    },
+    "ETC_339": {
+      "dbfId": 91079,
+      "material": "golden/cards/ETC_339.json"
+    },
+    "ETC_349": {
+      "dbfId": 91872,
+      "material": "golden/cards/ETC_349.json"
+    },
+    "ETC_350": {
+      "dbfId": 91874,
+      "material": "golden/cards/ETC_350.json"
+    },
+    "ETC_355": {
+      "dbfId": 91888,
+      "material": "golden/cards/ETC_355.json"
+    },
+    "ETC_356": {
+      "dbfId": 92222,
+      "material": "golden/cards/ETC_356.json"
+    },
+    "ETC_357": {
+      "dbfId": 92225,
+      "material": "golden/cards/ETC_357.json"
+    },
+    "ETC_358": {
+      "dbfId": 92227,
+      "material": "golden/cards/ETC_358.json"
+    },
+    "ETC_359": {
+      "dbfId": 92228,
+      "material": "golden/cards/ETC_359.json"
+    },
+    "ETC_362": {
+      "dbfId": 92232,
+      "material": "golden/cards/ETC_362.json"
+    },
+    "ETC_363": {
+      "dbfId": 92266,
+      "material": "golden/cards/ETC_363.json"
+    },
+    "ETC_364": {
+      "dbfId": 92267,
+      "material": "golden/cards/ETC_364.json"
+    },
+    "ETC_365": {
+      "dbfId": 92268,
+      "material": "golden/cards/ETC_365.json"
+    },
+    "ETC_365t": {
+      "dbfId": 92271,
+      "material": "golden/cards/ETC_365t.json"
+    },
+    "ETC_365t2": {
+      "dbfId": 92270,
+      "material": "golden/cards/ETC_365t2.json"
+    },
+    "ETC_367": {
+      "dbfId": 92276,
+      "material": "golden/cards/ETC_367.json"
+    },
+    "ETC_369": {
+      "dbfId": 92325,
+      "material": "golden/cards/ETC_369.json"
+    },
+    "ETC_369t": {
+      "dbfId": 97075,
+      "material": "golden/cards/ETC_369t.json"
+    },
+    "ETC_370": {
+      "dbfId": 92335,
+      "material": "golden/cards/ETC_370.json"
+    },
+    "ETC_371": {
+      "dbfId": 92338,
+      "material": "golden/cards/ETC_371.json"
+    },
+    "ETC_372": {
+      "dbfId": 92340,
+      "material": "golden/cards/ETC_372.json"
+    },
+    "ETC_373": {
+      "dbfId": 94201,
+      "material": "golden/cards/ETC_373.json"
+    },
+    "ETC_373a": {
+      "dbfId": 97382,
+      "material": "golden/cards/ETC_373a.json"
+    },
+    "ETC_373b": {
+      "dbfId": 97383,
+      "material": "golden/cards/ETC_373b.json"
+    },
+    "ETC_373t": {
+      "dbfId": 91248,
+      "material": "golden/cards/ETC_373t.json"
+    },
+    "ETC_375": {
+      "dbfId": 94204,
+      "material": "golden/cards/ETC_375.json"
+    },
+    "ETC_375a": {
+      "dbfId": 97387,
+      "material": "golden/cards/ETC_375a.json"
+    },
+    "ETC_375b": {
+      "dbfId": 97388,
+      "material": "golden/cards/ETC_375b.json"
+    },
+    "ETC_376": {
+      "dbfId": 94205,
+      "material": "golden/cards/ETC_376.json"
+    },
+    "ETC_379": {
+      "dbfId": 94210,
+      "material": "golden/cards/ETC_379.json"
+    },
+    "ETC_379t": {
+      "dbfId": 94211,
+      "material": "golden/cards/ETC_379t.json"
+    },
+    "ETC_382": {
+      "dbfId": 94218,
+      "material": "golden/cards/ETC_382.json"
+    },
+    "ETC_384": {
+      "dbfId": 94225,
+      "material": "golden/cards/ETC_384.json"
+    },
+    "ETC_385": {
+      "dbfId": 94249,
+      "material": "golden/cards/ETC_385.json"
+    },
+    "ETC_386": {
+      "dbfId": 94250,
+      "material": "golden/cards/ETC_386.json"
+    },
+    "ETC_386t": {
+      "dbfId": 97100,
+      "material": "golden/cards/ETC_386t.json"
+    },
+    "ETC_387": {
+      "dbfId": 94251,
+      "material": "golden/cards/ETC_387.json"
+    },
+    "ETC_387b": {
+      "dbfId": 97610,
+      "material": "golden/cards/ETC_387b.json"
+    },
+    "ETC_387bt": {
+      "dbfId": 97612,
+      "material": "golden/cards/ETC_387bt.json"
+    },
+    "ETC_387c": {
+      "dbfId": 97611,
+      "material": "golden/cards/ETC_387c.json"
+    },
+    "ETC_387ct": {
+      "dbfId": 97613,
+      "material": "golden/cards/ETC_387ct.json"
+    },
+    "ETC_388": {
+      "dbfId": 94381,
+      "material": "golden/cards/ETC_388.json"
+    },
+    "ETC_394": {
+      "dbfId": 96946,
+      "material": "golden/cards/ETC_394.json"
+    },
+    "ETC_395": {
+      "dbfId": 96992,
+      "material": "golden/cards/ETC_395.json"
+    },
+    "ETC_398": {
+      "dbfId": 96997,
+      "material": "golden/cards/ETC_398.json"
+    },
+    "ETC_399": {
+      "dbfId": 96999,
+      "material": "golden/cards/ETC_399.json"
+    },
+    "ETC_400": {
+      "dbfId": 90441,
+      "material": "golden/cards/ETC_400.json"
+    },
+    "ETC_405": {
+      "dbfId": 90532,
+      "material": "golden/cards/ETC_405.json"
+    },
+    "ETC_408": {
+      "dbfId": 90541,
+      "material": "golden/cards/ETC_408.json"
+    },
+    "ETC_409": {
+      "dbfId": 90543,
+      "material": "golden/cards/ETC_409.json"
+    },
+    "ETC_410": {
+      "dbfId": 90608,
+      "material": "golden/cards/ETC_410.json"
+    },
+    "ETC_411": {
+      "dbfId": 90612,
+      "material": "golden/cards/ETC_411.json"
+    },
+    "ETC_413": {
+      "dbfId": 90615,
+      "material": "golden/cards/ETC_413.json"
+    },
+    "ETC_417": {
+      "dbfId": 90678,
+      "material": "golden/cards/ETC_417.json"
+    },
+    "ETC_418": {
+      "dbfId": 90808,
+      "material": "golden/cards/ETC_418.json"
+    },
+    "ETC_419": {
+      "dbfId": 90966,
+      "material": "golden/cards/ETC_419.json"
+    },
+    "ETC_420": {
+      "dbfId": 90968,
+      "material": "golden/cards/ETC_420.json"
+    },
+    "ETC_422": {
+      "dbfId": 91215,
+      "material": "golden/cards/ETC_422.json"
+    },
+    "ETC_423": {
+      "dbfId": 91232,
+      "material": "golden/cards/ETC_423.json"
+    },
+    "ETC_423t": {
+      "dbfId": 91233,
+      "material": "golden/cards/ETC_423t.json"
+    },
+    "ETC_424": {
+      "dbfId": 91251,
+      "material": "golden/cards/ETC_424.json"
+    },
+    "ETC_425": {
+      "dbfId": 91252,
+      "material": "golden/cards/ETC_425.json"
+    },
+    "ETC_425t": {
+      "dbfId": 92238,
+      "material": "golden/cards/ETC_425t.json"
+    },
+    "ETC_427": {
+      "dbfId": 91412,
+      "material": "golden/cards/ETC_427.json"
+    },
+    "ETC_427t": {
+      "dbfId": 91415,
+      "material": "golden/cards/ETC_427t.json"
+    },
+    "ETC_428": {
+      "dbfId": 91493,
+      "material": "golden/cards/ETC_428.json"
+    },
+    "ETC_449": {
+      "dbfId": 97403,
+      "material": "golden/cards/ETC_449.json"
+    },
+    "ETC_506": {
+      "dbfId": 88580,
+      "material": "golden/cards/ETC_506.json"
+    },
+    "ETC_506t": {
+      "dbfId": 88555,
+      "material": "golden/cards/ETC_506t.json"
+    },
+    "ETC_518": {
+      "dbfId": 90356,
+      "material": "golden/cards/ETC_518.json"
+    },
+    "ETC_520": {
+      "dbfId": 90359,
+      "material": "golden/cards/ETC_520.json"
+    },
+    "ETC_521": {
+      "dbfId": 90368,
+      "material": "golden/cards/ETC_521.json"
+    },
+    "ETC_521t": {
+      "dbfId": 90542,
+      "material": "golden/cards/ETC_521t.json"
+    },
+    "ETC_522": {
+      "dbfId": 90481,
+      "material": "golden/cards/ETC_522.json"
+    },
+    "ETC_522t": {
+      "dbfId": 90483,
+      "material": "golden/cards/ETC_522t.json"
+    },
+    "ETC_523": {
+      "dbfId": 90484,
+      "material": "golden/cards/ETC_523.json"
+    },
+    "ETC_526": {
+      "dbfId": 90497,
+      "material": "golden/cards/ETC_526.json"
+    },
+    "ETC_526t": {
+      "dbfId": 94197,
+      "material": "golden/cards/ETC_526t.json"
+    },
+    "ETC_528": {
+      "dbfId": 90534,
+      "material": "golden/cards/ETC_528.json"
+    },
+    "ETC_532": {
+      "dbfId": 90592,
+      "material": "golden/cards/ETC_532.json"
+    },
+    "ETC_533": {
+      "dbfId": 90648,
+      "material": "golden/cards/ETC_533.json"
+    },
+    "ETC_534": {
+      "dbfId": 90671,
+      "material": "golden/cards/ETC_534.json"
+    },
+    "ETC_535": {
+      "dbfId": 90738,
+      "material": "golden/cards/ETC_535.json"
+    },
+    "ETC_536": {
+      "dbfId": 90856,
+      "material": "golden/cards/ETC_536.json"
+    },
+    "ETC_540": {
+      "dbfId": 92235,
+      "material": "golden/cards/ETC_540.json"
+    },
+    "ETC_541": {
+      "dbfId": 92237,
+      "material": "golden/cards/ETC_541.json"
+    },
+    "ETC_542": {
+      "dbfId": 92240,
+      "material": "golden/cards/ETC_542.json"
+    },
+    "ETC_543": {
+      "dbfId": 92242,
+      "material": "golden/cards/ETC_543.json"
+    },
+    "ETC_717": {
+      "dbfId": 88403,
+      "material": "golden/cards/ETC_717.json"
+    },
+    "ETC_717t": {
+      "dbfId": 90921,
+      "material": "golden/cards/ETC_717t.json"
+    },
+    "ETC_742": {
+      "dbfId": 88982,
+      "material": "golden/cards/ETC_742.json"
+    },
+    "ETC_813": {
+      "dbfId": 90781,
+      "material": "golden/cards/ETC_813.json"
+    },
+    "ETC_831": {
+      "dbfId": 91494,
+      "material": "golden/cards/ETC_831.json"
+    },
+    "ETC_832": {
+      "dbfId": 91495,
+      "material": "golden/cards/ETC_832.json"
+    },
+    "ETC_833": {
+      "dbfId": 91496,
+      "material": "golden/cards/ETC_833.json"
+    },
+    "ETC_836": {
+      "dbfId": 91498,
+      "material": "golden/cards/ETC_836.json"
+    },
+    "ETC_838": {
+      "dbfId": 92296,
+      "material": "golden/cards/ETC_838.json"
+    },
+    "ETC_840": {
+      "dbfId": 92328,
+      "material": "golden/cards/ETC_840.json"
+    },
+    "ETC_t8t": {
+      "dbfId": 94746,
+      "material": "golden/cards/ETC_t8t.json"
+    },
+    "JAM_000": {
+      "dbfId": 94727,
+      "material": "golden/cards/JAM_000.json"
+    },
+    "JAM_000t": {
+      "dbfId": 94728,
+      "material": "golden/cards/JAM_000t.json"
+    },
+    "JAM_000t2": {
+      "dbfId": 94729,
+      "material": "golden/cards/JAM_000t2.json"
+    },
+    "JAM_000t3": {
+      "dbfId": 94730,
+      "material": "golden/cards/JAM_000t3.json"
+    },
+    "JAM_000t4": {
+      "dbfId": 94732,
+      "material": "golden/cards/JAM_000t4.json"
+    },
+    "JAM_001": {
+      "dbfId": 95336,
+      "material": "golden/cards/JAM_001.json"
+    },
+    "JAM_002": {
+      "dbfId": 96627,
+      "material": "golden/cards/JAM_002.json"
+    },
+    "JAM_003": {
+      "dbfId": 96618,
+      "material": "golden/cards/JAM_003.json"
+    },
+    "JAM_004": {
+      "dbfId": 94735,
+      "material": "golden/cards/JAM_004.json"
+    },
+    "JAM_005": {
+      "dbfId": 95344,
+      "material": "golden/cards/JAM_005.json"
+    },
+    "JAM_006": {
+      "dbfId": 98390,
+      "material": "golden/cards/JAM_006.json"
+    },
+    "JAM_007": {
+      "dbfId": 94736,
+      "material": "golden/cards/JAM_007.json"
+    },
+    "JAM_008": {
+      "dbfId": 98410,
+      "material": "golden/cards/JAM_008.json"
+    },
+    "JAM_009": {
+      "dbfId": 98411,
+      "material": "golden/cards/JAM_009.json"
+    },
+    "JAM_010": {
+      "dbfId": 95345,
+      "material": "golden/cards/JAM_010.json"
+    },
+    "JAM_011": {
+      "dbfId": 95350,
+      "material": "golden/cards/JAM_011.json"
+    },
+    "JAM_012": {
+      "dbfId": 95454,
+      "material": "golden/cards/JAM_012.json"
+    },
+    "JAM_012t": {
+      "dbfId": 95455,
+      "material": "golden/cards/JAM_012t.json"
+    },
+    "JAM_012t2": {
+      "dbfId": 95826,
+      "material": "golden/cards/JAM_012t2.json"
+    },
+    "JAM_012t3": {
+      "dbfId": 95827,
+      "material": "golden/cards/JAM_012t3.json"
+    },
+    "JAM_012t4": {
+      "dbfId": 95828,
+      "material": "golden/cards/JAM_012t4.json"
+    },
+    "JAM_013": {
+      "dbfId": 96628,
+      "material": "golden/cards/JAM_013.json"
+    },
+    "JAM_014": {
+      "dbfId": 94821,
+      "material": "golden/cards/JAM_014.json"
+    },
+    "JAM_015": {
+      "dbfId": 95408,
+      "material": "golden/cards/JAM_015.json"
+    },
+    "JAM_015t": {
+      "dbfId": 95409,
+      "material": "golden/cards/JAM_015t.json"
+    },
+    "JAM_015t2": {
+      "dbfId": 95410,
+      "material": "golden/cards/JAM_015t2.json"
+    },
+    "JAM_015t3": {
+      "dbfId": 95411,
+      "material": "golden/cards/JAM_015t3.json"
+    },
+    "JAM_015t4": {
+      "dbfId": 95412,
+      "material": "golden/cards/JAM_015t4.json"
+    },
+    "JAM_016": {
+      "dbfId": 94819,
+      "material": "golden/cards/JAM_016.json"
+    },
+    "JAM_017": {
+      "dbfId": 94820,
+      "material": "golden/cards/JAM_017.json"
+    },
+    "JAM_018": {
+      "dbfId": 95856,
+      "material": "golden/cards/JAM_018.json"
+    },
+    "JAM_018t": {
+      "dbfId": 95857,
+      "material": "golden/cards/JAM_018t.json"
+    },
+    "JAM_018t2": {
+      "dbfId": 95860,
+      "material": "golden/cards/JAM_018t2.json"
+    },
+    "JAM_018t3": {
+      "dbfId": 95861,
+      "material": "golden/cards/JAM_018t3.json"
+    },
+    "JAM_018t4": {
+      "dbfId": 95862,
+      "material": "golden/cards/JAM_018t4.json"
+    },
+    "JAM_018t5": {
+      "dbfId": 95863,
+      "material": "golden/cards/JAM_018t5.json"
+    },
+    "JAM_019": {
+      "dbfId": 94802,
+      "material": "golden/cards/JAM_019.json"
+    },
+    "JAM_020": {
+      "dbfId": 95374,
+      "material": "golden/cards/JAM_020.json"
+    },
+    "JAM_021": {
+      "dbfId": 95377,
+      "material": "golden/cards/JAM_021.json"
+    },
+    "JAM_022": {
+      "dbfId": 98377,
+      "material": "golden/cards/JAM_022.json"
+    },
+    "JAM_023": {
+      "dbfId": 95825,
+      "material": "golden/cards/JAM_023.json"
+    },
+    "JAM_024": {
+      "dbfId": 97579,
+      "material": "golden/cards/JAM_024.json"
+    },
+    "JAM_025": {
+      "dbfId": 95394,
+      "material": "golden/cards/JAM_025.json"
+    },
+    "JAM_026": {
+      "dbfId": 95395,
+      "material": "golden/cards/JAM_026.json"
+    },
+    "JAM_026a": {
+      "dbfId": 95400,
+      "material": "golden/cards/JAM_026a.json"
+    },
+    "JAM_026b": {
+      "dbfId": 95403,
+      "material": "golden/cards/JAM_026b.json"
+    },
+    "JAM_027": {
+      "dbfId": 98413,
+      "material": "golden/cards/JAM_027.json"
+    },
+    "JAM_027a": {
+      "dbfId": 98414,
+      "material": "golden/cards/JAM_027a.json"
+    },
+    "JAM_027b": {
+      "dbfId": 98415,
+      "material": "golden/cards/JAM_027b.json"
+    },
+    "JAM_028": {
+      "dbfId": 94798,
+      "material": "golden/cards/JAM_028.json"
+    },
+    "JAM_029": {
+      "dbfId": 98382,
+      "material": "golden/cards/JAM_029.json"
+    },
+    "JAM_030": {
+      "dbfId": 95404,
+      "material": "golden/cards/JAM_030.json"
+    },
+    "JAM_031": {
+      "dbfId": 98417,
+      "material": "golden/cards/JAM_031.json"
+    },
+    "JAM_032": {
+      "dbfId": 94852,
+      "material": "golden/cards/JAM_032.json"
+    },
+    "JAM_033": {
+      "dbfId": 95464,
+      "material": "golden/cards/JAM_033.json"
+    },
+    "JAM_033t": {
+      "dbfId": 95465,
+      "material": "golden/cards/JAM_033t.json"
+    },
+    "JAM_033t2": {
+      "dbfId": 95466,
+      "material": "golden/cards/JAM_033t2.json"
+    },
+    "JAM_033t3": {
+      "dbfId": 95467,
+      "material": "golden/cards/JAM_033t3.json"
+    },
+    "JAM_033t4": {
+      "dbfId": 95468,
+      "material": "golden/cards/JAM_033t4.json"
+    },
+    "JAM_034": {
+      "dbfId": 95405,
+      "material": "golden/cards/JAM_034.json"
+    },
+    "JAM_035": {
+      "dbfId": 95630,
+      "material": "golden/cards/JAM_035.json"
+    },
+    "JAM_036": {
+      "dbfId": 94822,
+      "material": "golden/cards/JAM_036.json"
+    },
+    "JAM_037": {
+      "dbfId": 96621,
+      "material": "golden/cards/JAM_037.json"
+    },
+    "JAM_037t": {
+      "dbfId": 98419,
+      "material": "golden/cards/JAM_037t.json"
+    }
+  }
+}
