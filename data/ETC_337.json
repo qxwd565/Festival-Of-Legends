@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": " <b>천상의 보호막</b>\n내 <b>천상의 보호막</b>\n하수인들이 공격력을 +2 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

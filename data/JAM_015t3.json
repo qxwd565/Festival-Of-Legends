@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.\n<i>(매 턴마다 바뀝니다.)</i>@내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

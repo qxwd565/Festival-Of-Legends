@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 하수인들에게 +2/+4와 <b>도발</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

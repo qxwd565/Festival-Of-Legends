@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]주문을 <b>발견</b>합니다. 그 주문의\n비용이 (1) 감소합니다.\n<b>피날레:</b> 턴이 끝나면 이 카드를\n내 손으로 다시 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

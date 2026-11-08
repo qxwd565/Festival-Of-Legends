@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 상대편의 손을 바나나로 가득 채웁니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

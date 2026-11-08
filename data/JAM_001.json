@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때,\n<b>비밀</b>을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

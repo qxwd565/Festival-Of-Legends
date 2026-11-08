@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 무작위 마법사와 흑마법사 화염 주문을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

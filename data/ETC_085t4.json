@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "내 손, 덱, 전장에 있는 무작위 하수인에게 +6/+6을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

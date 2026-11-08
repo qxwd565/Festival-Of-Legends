@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 하수인에게 피해를 $3 줍니다. 내 손에 있을 때 매 턴마다 바뀌는 추가 효과를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

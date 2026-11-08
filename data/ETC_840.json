@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>\n이 하수인은 공격할 때마다 야수를 뽑고 그 능력치를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

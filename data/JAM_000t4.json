@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 무작위 마법사\n<b>비밀</b>을 둘 얻습니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> 무작위 마법사 <b>비밀</b>을 둘 얻습니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

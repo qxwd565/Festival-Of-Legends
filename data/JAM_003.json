@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 상대편이 마나를 모두 소모한 상태로 턴을 마치면, 비용이 3인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

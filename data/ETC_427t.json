@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "내 손에 있는 무작위 하수인 둘에게 +4/+4를 부여합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

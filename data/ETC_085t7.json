@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "카드를 6장 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

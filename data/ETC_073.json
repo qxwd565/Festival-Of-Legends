@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>연계:</b> 이번 게임에서 앞서 낸 다른 <b>연계</b> 카드 1장당 +1/+1을 얻습니다.@ <i>(@)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

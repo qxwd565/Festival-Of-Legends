@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>생명력 흡수</b>, <b>죽음의 메아리:</b>\n이 하수인을 내 손의 하수인과\n교체하고, 그 하수인에게\n<b>생명력 흡수</b>를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

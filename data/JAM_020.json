@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>추방자:</b> 하수인을 주인의 손으로 돌려보냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

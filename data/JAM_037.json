@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>피날레:</b> 록 대결을 시작합니다!\n각 플레이어는 매 턴마다 마나를\n모두 소모하지 않으면 피해를\n8<i>(또는 그 이상)</i> 받습니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

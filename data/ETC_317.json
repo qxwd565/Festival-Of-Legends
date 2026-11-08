@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b>\n무작위 아군 하수인에게\n+@/+@|1(을,를) 부여합니다.\n<i>(장착하고 있을 때 하수인을 내면\n강화됩니다!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

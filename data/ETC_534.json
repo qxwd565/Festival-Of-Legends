@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 하수인은 피해를 1 받은 후에 처치됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>연계:</b> <b>독성</b>을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱을\n상대편의 덱으로 교체합니다.\n<b>피날레:</b> 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

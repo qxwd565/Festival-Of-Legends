@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>피날레:</b> 다음에 내가 소환하는 야수에게 +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

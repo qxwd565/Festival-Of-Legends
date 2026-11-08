@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>\n내 영웅이 생명력을 얻은 후에, 얻은 생명력과 능력치가 같은 영혼을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

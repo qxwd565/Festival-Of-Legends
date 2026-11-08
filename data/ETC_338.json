@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인을 선택합니다. 그 하수인을 복사하여 내 손으로 가져옵니다.\n<b>피날레:</b> 두 하수인 모두에게 +1/+2을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

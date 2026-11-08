@@ -100,7 +100,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, <b>속공</b>\n공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

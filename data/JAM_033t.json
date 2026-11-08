@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>천상의 보호막</b>\n<i>(매 턴마다 바뀝니다.)</i>@<b>속공</b>, <b>천상의 보호막</b>",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

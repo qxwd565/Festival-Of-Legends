@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "[x]<b>속공</b>, 내 영웅이 공격한 후에,\n이 하수인을 내 손으로\n다시 가져오고 비용이\n(1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

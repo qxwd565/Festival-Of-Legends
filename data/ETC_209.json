@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n피해를 2 줍니다.\n<b>피날레:</b> 대신 모든 적에게 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

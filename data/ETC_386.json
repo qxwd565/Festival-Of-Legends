@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>도발</b> 능력이 있는 {0}/{1} 가시멧돼지를 둘 소환합니다.\n<i>(이번 턴에 내 영웅이 얻은 공격력과 방어도만큼 강화됩니다.)</i>",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

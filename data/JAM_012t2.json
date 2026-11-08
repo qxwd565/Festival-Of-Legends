@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 0/3\n마나 해일 토템을 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> 0/3\n마나 해일 토템을 소환합니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

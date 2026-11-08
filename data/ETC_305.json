@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "하수인에게 -5/-5를 부여합니다. 그 하수인의 공격력이 0이면, 그 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

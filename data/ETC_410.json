@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b>\n이번 턴에 죽은 하수인 하나당 +1/+1을 얻습니다.@ <i>(@)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

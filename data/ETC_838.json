@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 손에서 비용이 가장 높은 야수를 소환합니다. 그 야수는 2턴 동안 <b>휴면</b> 상태가 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

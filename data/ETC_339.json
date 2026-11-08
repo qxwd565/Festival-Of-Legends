@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>초과 치유:</b> <b>초과 치유량</b>과 같은 비용의 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

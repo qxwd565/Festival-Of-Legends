@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 내 영웅에게 공격력 +2와 <b>면역</b>을 부여한 후에, 각 적 하수인을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

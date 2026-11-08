@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n내 손을 촬영한 후에,\n내 덱에 섞어 넣습니다.\n<i>(게임당 1회만 가능)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

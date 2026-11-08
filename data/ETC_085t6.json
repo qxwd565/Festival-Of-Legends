@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>\n적 영웅에게\n피해를 $6 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

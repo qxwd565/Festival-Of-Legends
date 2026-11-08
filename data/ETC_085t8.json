@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>과 <b>환생</b> 능력이 있는 6/6 악마를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

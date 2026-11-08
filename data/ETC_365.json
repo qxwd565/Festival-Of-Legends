@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b> 능력이 있는 3/4 로커와 <b>속공</b> 능력이 있는 4/3 로커를 소환합니다.\n<b>피날레:</b> 내 마지막 악절을 냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

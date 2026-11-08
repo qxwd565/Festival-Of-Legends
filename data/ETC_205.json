@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]주문을 셋 뽑습니다.\n<b>피날레:</b> 뽑은 주문을\n<b>발견</b>해서 복사해옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

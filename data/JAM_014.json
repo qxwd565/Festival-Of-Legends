@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>아군 하수인을 이 하수인으로 변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

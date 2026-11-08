@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>\n아군 <b>속공</b> 하수인이 공격한 후에, 내 하수인들에게 공격력을 +1 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

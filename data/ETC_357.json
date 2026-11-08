@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>천상의 보호막</b>, <b>도발</b>, <b>질풍</b>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "[x]촬영한 카드들을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>@[x]촬영한 카드 {0}장을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

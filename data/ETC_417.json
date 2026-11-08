@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내 덱에 있는 모든 하수인에게 그 비용만큼 공격력과 생명력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "하수인을 <b>침묵</b>시킵니다.\n<b>연계:</b> 그 하수인에게 피해도 $2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

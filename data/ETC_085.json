@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "악장을 <b>발견</b>하여 냅니다. 다른 악장 여섯을 내 덱에 섞어 넣습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

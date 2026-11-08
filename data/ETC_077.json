@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "<b>연계:</b> 무작위 <b>연계</b> 카드를 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

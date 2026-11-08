@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> <b>돌진</b>과 <b>도발</b> 능력이 있는 9/9 역병 멧돼지를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

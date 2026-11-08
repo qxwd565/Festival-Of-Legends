@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>, <b>전투의 함성:</b>\n이번 게임에서 내가 낸\n자유새 하나당 +1/+1을 얻습니다.@ <i>(@)</i> ",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

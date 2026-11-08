@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 다음 주문의\n비용이 (@) 감소합니다.\n<i>(장착하고 있을 때 <b>과부하</b>에\n걸리면 강화됩니다!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

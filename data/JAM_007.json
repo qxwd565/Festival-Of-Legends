@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>\n<b>환생</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

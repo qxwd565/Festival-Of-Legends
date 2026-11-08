@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>(비밀) 선택 -</b> 2턴 후에, 5/5 고대정령을 셋 소환합니다. 또는 4턴 후에, 8/8 거인을 셋 소환합니다.",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

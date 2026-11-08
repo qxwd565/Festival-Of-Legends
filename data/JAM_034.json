@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>, <b>전투의 함성:</b>\n다음 턴에 상대편이 시전하는 주문의 비용이 (2) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -72,7 +72,9 @@
       }
     ],
     "nativeRawText": "[x]하수인과 그 양옆의 하수인들의\n생명력을 #3 회복시킵니다.\n<b>초과 치유</b>한 하수인의 수만큼\n마나 수정을 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

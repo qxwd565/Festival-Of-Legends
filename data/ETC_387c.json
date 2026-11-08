@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "4턴 후에,\n8/8 거인을 셋 소환합니다. <b>(비밀)</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

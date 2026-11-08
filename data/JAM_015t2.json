@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n방어도를 +5 얻습니다.\n<i>(매 턴마다 바뀝니다.)</i>@[x]<b>전투의 함성:</b>\n방어도를 +5 얻습니다.",
-    "nativeTextBuilder": 6
+    "nativeTextBuilder": 6,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

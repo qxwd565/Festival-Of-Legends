@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "비용이 {0}인 카드를 낸 후에, 비용이 {1}인 카드를 뽑습니다.\n<i>(점점 증가합니다!)</i>",
-    "nativeTextBuilder": 26
+    "nativeTextBuilder": 26,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

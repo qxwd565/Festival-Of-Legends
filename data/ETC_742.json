@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 내가 마지막으로 낸 카드의 비용이 (1)이면, +1/+1을 얻습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

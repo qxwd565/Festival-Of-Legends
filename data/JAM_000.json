@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]내 손에 있을 때\n매 턴마다 바뀌는 추가\n효과를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

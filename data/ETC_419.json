@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>\n이 하수인이 공격한 후에, 공격력을 +1 얻고 무작위 적 하수인을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

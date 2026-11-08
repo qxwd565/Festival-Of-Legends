@@ -62,7 +62,9 @@
       }
     ],
     "nativeRawText": "아군 하수인에게 공격력 +2와\n<b>속공</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

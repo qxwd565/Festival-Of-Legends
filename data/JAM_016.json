@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>\n이번 게임에서 내가 장착한\n무기 하나당 비용이 (2) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

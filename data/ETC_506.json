@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "비용이 5인 하수인을 <b>발견</b>합니다. 그 하수인에게 +1/+1을 부여하여 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

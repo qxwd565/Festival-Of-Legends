@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "내 턴에 내 영웅이 피해를 받을 때마다, 생명력을 #2 회복하고 그 피해를 막습니다.\n내구도를 1 잃습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

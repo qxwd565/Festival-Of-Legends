@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 다른 하수인에게 +1/+1과\n이 <b>죽음의_메아리</b> 능력을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

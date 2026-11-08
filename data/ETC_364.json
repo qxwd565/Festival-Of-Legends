@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인을 뽑습니다. 그 하수인에게 +3/+3을 부여합니다.\n<b>피날레:</b> 내 마지막 악절을 냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

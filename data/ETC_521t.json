@@ -61,7 +61,9 @@
       }
     ],
     "nativeRawText": "",
-    "nativeTextBuilder": 23
+    "nativeTextBuilder": 23,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

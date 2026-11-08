@@ -72,7 +72,9 @@
       }
     ],
     "nativeRawText": "하수인을 복사하여 소환합니다. 그 하수인은 피해를 받은 후에 죽습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

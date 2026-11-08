@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $2 줍니다.\n<b>피날레:</b> 지옥 주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

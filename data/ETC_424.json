@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "하수인을 선택합니다. 양옆의 하수인에게 그 하수인의 <b>죽음의 메아리</b>를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

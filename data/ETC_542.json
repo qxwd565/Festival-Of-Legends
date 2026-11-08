@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>도발</b>, <b>피날레:</b> 모든 적\n하수인이 이 하수인을\n공격하게 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

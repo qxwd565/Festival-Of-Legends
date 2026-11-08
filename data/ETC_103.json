@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 상대편의\n덱에 없는 상대편 직업의\n주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

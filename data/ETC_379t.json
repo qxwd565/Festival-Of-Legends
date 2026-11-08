@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "이번 턴에 내 영웅이 공격력을 +4 얻습니다. 방어도를 +2 얻습니다.\n<i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

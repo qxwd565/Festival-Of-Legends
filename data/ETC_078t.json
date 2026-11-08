@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 받는 모든 피해가 1씩 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

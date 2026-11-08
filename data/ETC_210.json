@@ -114,7 +114,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>\n피해를 ${0} 줍니다. {2}/{3} 영혼을 {1}마리 소환합니다.\n<i>(소모한 <b>시체</b>의 수만큼 무작위로 강화됩니다.)</i>",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

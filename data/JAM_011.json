@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "<b>질풍</b>, 내 영웅이 하수인을 공격할 때마다 그 하수인의 능력치를 3/3으로 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

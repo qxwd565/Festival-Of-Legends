@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 이번 턴에 내 영웅의 생명력이 회복되었으면, 마나 대신 생명력을 비용으로 사용합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

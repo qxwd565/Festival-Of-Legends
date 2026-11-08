@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에 있는\n주문들의 비용을 (0)으로\n만듭니다. 내가 주문을 시전하면,\n내 다른 주문들의 비용이\n(1) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

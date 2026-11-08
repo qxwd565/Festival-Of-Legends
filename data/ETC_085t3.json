@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 캐릭터에게 피해를 $6 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

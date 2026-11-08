@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "모든 아군 하수인을 내 손으로 다시 가져옵니다. 이번 턴에 그 하수인들의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

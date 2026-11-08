@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>천상의 보호막</b>\n아군 캐릭터가 <b>천상의 보호막</b>을\n잃은 후에, 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -44,7 +44,9 @@
       }
     ],
     "nativeRawText": "내 다음 영웅 능력의 비용이 (0)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

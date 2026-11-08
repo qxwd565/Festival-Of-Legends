@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]<b>속공</b> 하수인을 둘\n뽑습니다. 그 하수인들의\n비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

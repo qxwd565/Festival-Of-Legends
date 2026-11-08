@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>천상의 보호막</b>, <b>피날레:</b>\n양옆의 하수인들에게 <b>천상의 보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

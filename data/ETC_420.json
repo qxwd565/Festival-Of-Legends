@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 아군\n하수인에게 이 하수인의\n능력치를 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

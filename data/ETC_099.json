@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>\n<b>피날레:</b> 적 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

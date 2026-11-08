@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>\n아군의 <b>천상의 보호막</b>을 제거하고 5/5 정령을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>시체</b>를 5개 소모해 이번 게임에서 죽은 무작위 아군 하수인의 <b>죽음의 메아리</b>를 발동시키고 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

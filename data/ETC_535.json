@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "비용이 1, 2, 3인\n무작위 정령을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

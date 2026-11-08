@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "비용이 6, 5, 4, 3인 무작위 하수인을 소환합니다.\n<b>과부하:</b> (2)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

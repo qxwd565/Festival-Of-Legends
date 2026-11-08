@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내게 탈진 피해를 줍니다. 그만큼 공격력과 생명력을 얻습니다.@<b>전투의 함성:</b> 내게 탈진 피해를 {0} 줍니다. 그만큼 공격력과 생명력을 얻습니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

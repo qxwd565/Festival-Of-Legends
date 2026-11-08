@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "적에게 피해를 $2씩 주는 광선 @개를 적들에게 발사합니다. 미래의 내 빛줄기 공연들이 광선을 1개 더 발사합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

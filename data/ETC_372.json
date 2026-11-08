@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "카드를 뽑습니다. 내 전장에 있는 종족의 수만큼 반복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

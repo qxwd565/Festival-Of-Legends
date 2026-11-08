@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "아군 하수인을 내 손으로 다시 가져옵니다. 그 하수인의 능력치와 <b>속공</b> 능력이 있는 춤꾼을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

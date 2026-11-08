@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>\n<b>도발</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

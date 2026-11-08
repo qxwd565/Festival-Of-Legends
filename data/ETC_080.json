@@ -109,7 +109,9 @@
       }
     ],
     "nativeRawText": "내 덱을 만들 때, 최대\n3장으로 이루어진 밴드를\n결성할 수 있습니다.\n<b>전투의 함성:</b> 밴드를\n<b>발견</b>합니다!",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

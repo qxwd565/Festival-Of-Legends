@@ -72,7 +72,9 @@
       }
     ],
     "nativeRawText": "다음 턴에 적 하수인의 비용이 (5) 증가합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

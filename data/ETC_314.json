@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "모든 하수인에게 피해를 $3 줍니다.\n6/6 팝스타를 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

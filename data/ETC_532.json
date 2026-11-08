@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "이번 게임에서 내가 시전한 다른 주문을 <b>발견</b>해서 복사해옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

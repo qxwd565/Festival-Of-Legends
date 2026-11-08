@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]카드를 2장 뽑습니다.\n<b>피날레:</b> 내 무기에\n공격력을 +2 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

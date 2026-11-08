@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "내가 주문을 시전한 후에, 생명력이 가장 낮은 적에게 피해를 1 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

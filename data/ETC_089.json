@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]매 턴이 시작될 때,\n공격력 또는 생명력을\n1 잃습니다.\n<i>(무작위로 선택)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

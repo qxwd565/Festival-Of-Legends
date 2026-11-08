@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "턴이 끝날 때, 폭발하며 피해를 @ 받습니다!\n<i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

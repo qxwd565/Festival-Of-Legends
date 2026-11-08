@@ -87,7 +87,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성과 죽음의 메아리:</b> 이번 게임 동안 내 영웅 능력이 방어도를 +1 더 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

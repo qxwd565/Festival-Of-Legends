@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>\n이 카드의 비용은\n내 덱에 있는 카드의\n수와 같습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

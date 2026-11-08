@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내게 탈진 피해를 줍니다.\n그만큼 3/3 임프를 소환합니다.@<b>전투의 함성:</b> 내게 탈진 피해를 {0} 줍니다.\n그만큼 3/3 임프를 소환합니다.",
-    "nativeTextBuilder": 28
+    "nativeTextBuilder": 28,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

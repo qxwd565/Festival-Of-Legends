@@ -82,7 +82,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의\n빈 마나 수정을 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

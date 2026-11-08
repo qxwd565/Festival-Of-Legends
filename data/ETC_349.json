@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> 비용이 5인\n과거의 무작위 하수인을\n소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

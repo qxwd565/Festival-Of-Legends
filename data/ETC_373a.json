@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "2/2 나무정령을 다섯 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

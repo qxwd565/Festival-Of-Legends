@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "상대편의 다음 카드 6장을 없앱니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

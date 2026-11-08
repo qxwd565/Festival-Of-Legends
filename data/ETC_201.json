@@ -54,7 +54,9 @@
       }
     ],
     "nativeRawText": "하수인에게 +1/+1을 부여합니다.\n<i>(바나나 3개 남음!)</i>",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

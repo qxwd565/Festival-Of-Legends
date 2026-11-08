@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "내 영웅이 <b>생명력 흡수</b>를 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

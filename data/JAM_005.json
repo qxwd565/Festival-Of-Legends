@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 아군 하수인의\n<b>죽음의 메아리</b> 능력을\n2번 발동시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2023-06-01",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

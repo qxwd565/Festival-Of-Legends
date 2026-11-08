@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리:</b> 각 플레이어가 카드를 2장씩 뽑고, 2장씩 버리고, 다음 카드를 2장씩 파괴합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-04-12",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],
