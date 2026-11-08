@@ -17,6 +17,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -62,7 +65,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_028",
@@ -79,6 +83,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -141,7 +148,8 @@
         "BATTLECRY",
         "SECRET",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_029",
@@ -161,7 +169,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -223,7 +232,8 @@
       "mechanics": [
         "SPELLPOWER",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_029t",
@@ -231,7 +241,7 @@
       "name": "건반 증폭기",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>주문 공격력 +1</b>",
@@ -243,7 +253,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -284,7 +295,8 @@
       ],
       "mechanics": [
         "SPELLPOWER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_034",
@@ -304,7 +316,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -360,7 +373,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_035",
@@ -380,7 +394,8 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -443,7 +458,8 @@
         "TAUNT",
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_068",
@@ -463,7 +479,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -524,7 +541,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_069",
@@ -541,6 +559,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FEL",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -579,7 +599,8 @@
           "name": "게임 태그 1724",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_070",
@@ -596,6 +617,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -651,7 +675,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_070t",
@@ -659,7 +684,7 @@
       "name": "관현악단 임프",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -671,7 +696,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -709,7 +735,8 @@
           "name": "임프",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_071",
@@ -726,6 +753,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -787,7 +817,8 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_072",
@@ -807,7 +838,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -858,7 +890,8 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_073",
@@ -875,6 +908,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -931,7 +967,8 @@
       "mechanics": [
         "COMBO",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_074",
@@ -948,6 +985,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FIRE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -994,7 +1033,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_075",
@@ -1011,6 +1051,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1043,7 +1086,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_076",
@@ -1060,6 +1104,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -1106,7 +1152,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_076t",
@@ -1114,7 +1161,7 @@
       "name": "브레이커",
       "type": "MINION",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>속공</b>",
@@ -1123,6 +1170,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1158,7 +1208,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_077",
@@ -1179,7 +1230,8 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1235,7 +1287,8 @@
       ],
       "mechanics": [
         "COMBO"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_078",
@@ -1255,7 +1308,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1316,7 +1370,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_078t",
@@ -1324,7 +1379,7 @@
       "name": "부서진 마이크",
       "type": "WEAPON",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "내 영웅이 받는 모든 피해가 1씩 증가합니다.",
@@ -1333,6 +1388,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1365,7 +1423,8 @@
           "name": "카드 유형",
           "value": 7
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_078t2",
@@ -1373,7 +1432,7 @@
       "name": "황금 마이크",
       "type": "WEAPON",
       "cardClass": "ROGUE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -1382,6 +1441,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1414,7 +1476,8 @@
           "name": "카드 유형",
           "value": 7
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_079",
@@ -1431,6 +1494,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1468,7 +1534,8 @@
           "name": "무작위 선택 제외",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_080",
@@ -1485,6 +1552,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1571,7 +1641,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_081",
@@ -1591,7 +1662,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1652,7 +1724,8 @@
       ],
       "mechanics": [
         "IMMUNE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_082",
@@ -1669,6 +1742,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -1702,7 +1777,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_083",
@@ -1719,6 +1795,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FEL",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -1770,7 +1848,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_084",
@@ -1787,6 +1866,9 @@
       "durability": 3,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1827,7 +1909,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085",
@@ -1844,6 +1927,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1884,7 +1970,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t",
@@ -1892,7 +1979,7 @@
       "name": "시기의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "상대편의 다음 카드 6장을 없앱니다.",
@@ -1901,6 +1988,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1923,7 +2013,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t2",
@@ -1931,7 +2022,7 @@
       "name": "교만의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "내 덱에서 비용이 가장 높은 하수인을 뽑습니다. 그 하수인의 비용이 (6) 감소합니다.",
@@ -1940,6 +2031,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -1962,7 +2056,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t3",
@@ -1970,7 +2065,7 @@
       "name": "분노의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>모든</b> 캐릭터에게 피해를 $6 줍니다.",
@@ -1979,6 +2074,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2001,7 +2099,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t4",
@@ -2009,7 +2108,7 @@
       "name": "식탐의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "내 손, 덱, 전장에 있는 무작위 하수인에게 +6/+6을 부여합니다.",
@@ -2018,6 +2117,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2040,7 +2142,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t6",
@@ -2048,7 +2151,7 @@
       "name": "욕망의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>생명력 흡수</b>\n적 영웅에게\n피해를 $6 줍니다.",
@@ -2057,6 +2160,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2087,7 +2193,8 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t7",
@@ -2095,7 +2202,7 @@
       "name": "탐욕의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "카드를 6장 뽑습니다.",
@@ -2104,6 +2211,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2126,7 +2236,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_085t8",
@@ -2134,7 +2245,7 @@
       "name": "나태의 악장",
       "type": "SPELL",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>도발</b>과 <b>환생</b> 능력이 있는 6/6 악마를 소환합니다.",
@@ -2143,6 +2254,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2179,7 +2293,8 @@
       "mechanics": [
         "TAUNT",
         "REBORN"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_086",
@@ -2199,7 +2314,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2256,7 +2372,8 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_087",
@@ -2276,7 +2393,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2327,7 +2445,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_088",
@@ -2347,7 +2466,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2414,7 +2534,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_089",
@@ -2434,7 +2555,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2485,7 +2607,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_098",
@@ -2502,6 +2625,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2552,7 +2678,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_098t",
@@ -2560,7 +2687,7 @@
       "name": "악기 보관함",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "<b>죽음의 메아리:</b> 무작위 무기를 상대편의 손에 추가합니다.",
@@ -2569,6 +2696,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2599,7 +2729,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_099",
@@ -2619,7 +2750,8 @@
       "races": [
         "DRAGON"
       ],
-      "race": "DRAGON",
+      "race": "용족",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2680,7 +2812,8 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_101",
@@ -2697,6 +2830,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2747,7 +2883,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_102",
@@ -2764,6 +2901,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2809,7 +2949,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_103",
@@ -2826,6 +2967,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2887,7 +3031,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_104",
@@ -2907,7 +3052,8 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -2958,7 +3104,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_105",
@@ -2978,7 +3125,8 @@
       "races": [
         "TOTEM"
       ],
-      "race": "TOTEM",
+      "race": "토템",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3024,7 +3172,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_106",
@@ -3044,7 +3193,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3095,7 +3245,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_107",
@@ -3115,7 +3266,8 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "QUILBOAR",
+      "race": "가시멧돼지",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3166,7 +3318,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_108",
@@ -3183,6 +3336,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3234,7 +3390,8 @@
       "mechanics": [
         "STEALTH",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_109",
@@ -3254,7 +3411,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3305,7 +3463,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_110",
@@ -3322,6 +3481,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3367,7 +3529,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_111",
@@ -3387,7 +3550,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3438,7 +3602,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_113",
@@ -3455,6 +3620,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3510,7 +3678,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_113t",
@@ -3518,7 +3687,7 @@
       "name": "피즐의 사진",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "촬영한 카드들을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>",
@@ -3527,6 +3696,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3554,7 +3726,8 @@
           "name": "게임 태그 1724",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_121",
@@ -3571,6 +3744,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3626,7 +3802,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_200",
@@ -3643,6 +3820,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3678,7 +3858,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_201",
@@ -3695,6 +3876,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3722,7 +3906,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_201t",
@@ -3739,6 +3924,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3761,7 +3949,8 @@
           "name": "희귀도",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_201t2",
@@ -3778,6 +3967,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3800,7 +3992,8 @@
           "name": "희귀도",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_205",
@@ -3817,6 +4010,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "ARCANE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -3868,7 +4063,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_206",
@@ -3885,6 +4081,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3935,7 +4134,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_207",
@@ -3952,6 +4152,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -3987,7 +4190,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_207t",
@@ -4004,6 +4208,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4034,7 +4241,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_207t2",
@@ -4051,6 +4259,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4081,7 +4292,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_208",
@@ -4098,6 +4310,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4143,7 +4358,8 @@
       ],
       "mechanics": [
         "TRADEABLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_209",
@@ -4163,7 +4379,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4229,7 +4446,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_210",
@@ -4246,6 +4464,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4336,7 +4557,8 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_305",
@@ -4353,6 +4575,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4386,7 +4610,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_312",
@@ -4403,6 +4628,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4448,7 +4676,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_314",
@@ -4465,6 +4694,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4498,7 +4729,8 @@
           "name": "주문 속성",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_314t",
@@ -4515,6 +4747,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4543,7 +4777,8 @@
           "name": "주문 속성",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_314t2",
@@ -4551,7 +4786,7 @@
       "name": "팝스타",
       "type": "MINION",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -4563,7 +4798,8 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "DRAENEI",
+      "race": "드레나이",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4596,7 +4832,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_316",
@@ -4613,6 +4850,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4651,7 +4890,8 @@
           "name": "게임 태그 1724",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_317",
@@ -4668,6 +4908,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4724,7 +4967,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_318",
@@ -4741,6 +4985,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4779,7 +5025,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_320",
@@ -4796,6 +5043,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -4853,7 +5102,8 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "TRADEABLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_320t",
@@ -4861,7 +5111,7 @@
       "name": "살아있는 조명",
       "type": "MINION",
       "cardClass": "PALADIN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -4873,7 +5123,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4906,7 +5157,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_321",
@@ -4926,7 +5178,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -4994,7 +5247,8 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_324",
@@ -5014,7 +5268,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5071,7 +5326,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_325",
@@ -5088,6 +5344,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5144,7 +5403,8 @@
       "mechanics": [
         "LIFESTEAL",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_326",
@@ -5161,6 +5421,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5217,7 +5480,8 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_328",
@@ -5234,6 +5498,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5279,7 +5546,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_329",
@@ -5296,6 +5564,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5357,7 +5628,8 @@
       "mechanics": [
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_330",
@@ -5374,6 +5646,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -5420,7 +5694,8 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_332",
@@ -5440,7 +5715,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5496,7 +5772,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_334",
@@ -5513,6 +5790,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5573,7 +5853,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_335",
@@ -5590,6 +5871,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -5643,7 +5926,8 @@
           "name": "목표 지속 효과",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_336",
@@ -5663,7 +5947,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5725,7 +6010,8 @@
       "mechanics": [
         "CHARGE",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_337",
@@ -5745,7 +6031,8 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5801,7 +6088,8 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_338",
@@ -5818,6 +6106,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -5856,7 +6146,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_339",
@@ -5876,7 +6167,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -5929,7 +6221,8 @@
           "name": "초과 치유",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_349",
@@ -5949,7 +6242,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6000,7 +6294,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_350",
@@ -6020,7 +6315,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6071,7 +6367,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_355",
@@ -6091,7 +6388,8 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "QUILBOAR",
+      "race": "가시멧돼지",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6142,7 +6440,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_356",
@@ -6159,6 +6458,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -6206,7 +6507,8 @@
       "mechanics": [
         "OVERLOAD",
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_357",
@@ -6226,7 +6528,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6295,7 +6598,8 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_358",
@@ -6315,7 +6619,8 @@
       "races": [
         "MURLOC"
       ],
-      "race": "MURLOC",
+      "race": "멀록",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6366,7 +6671,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_359",
@@ -6386,7 +6692,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6454,7 +6761,8 @@
         "OVERLOAD",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_362",
@@ -6471,6 +6779,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FIRE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -6522,7 +6832,8 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_363",
@@ -6539,6 +6850,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6576,7 +6890,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_364",
@@ -6593,6 +6908,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6630,7 +6948,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_365",
@@ -6647,6 +6966,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6698,7 +7020,8 @@
       "mechanics": [
         "TAUNT",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_365t",
@@ -6706,7 +7029,7 @@
       "name": "거친 로커",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>도발</b>",
@@ -6715,6 +7038,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6750,7 +7076,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_365t2",
@@ -6758,7 +7085,7 @@
       "name": "들뜬 로커",
       "type": "MINION",
       "cardClass": "WARRIOR",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>속공</b>",
@@ -6767,6 +7094,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6802,7 +7132,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_367",
@@ -6819,6 +7150,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6841,7 +7175,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_369",
@@ -6858,6 +7193,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FROST",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -6909,7 +7246,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_369t",
@@ -6917,7 +7255,7 @@
       "name": "시원시원한 정령",
       "type": "MINION",
       "cardClass": "SHAMAN",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "<b>도발</b>",
@@ -6929,7 +7267,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -6970,7 +7309,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_370",
@@ -6987,6 +7327,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7027,7 +7370,8 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_371",
@@ -7044,6 +7388,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7105,7 +7452,8 @@
       "mechanics": [
         "OVERLOAD",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_372",
@@ -7122,6 +7470,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7149,7 +7500,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_373",
@@ -7166,6 +7518,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -7213,7 +7567,8 @@
       "mechanics": [
         "TAUNT",
         "CHOOSE_ONE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_373a",
@@ -7221,7 +7576,7 @@
       "name": "꽃의 힘",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "2/2 나무정령을 다섯 소환합니다.",
@@ -7230,6 +7585,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -7253,7 +7610,8 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_373b",
@@ -7261,7 +7619,7 @@
       "name": "훌륭한 울림",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 7,
       "text": "내 하수인들에게 +2/+4와 <b>도발</b>을 부여합니다.",
@@ -7270,6 +7628,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -7301,7 +7661,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_373t",
@@ -7309,7 +7670,7 @@
       "name": "나무정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -7318,6 +7679,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7350,7 +7714,8 @@
           "name": "게임 태그 2831",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_375",
@@ -7367,6 +7732,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7423,7 +7791,8 @@
       "mechanics": [
         "DISCOVER",
         "CHOOSE_ONE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_375a",
@@ -7431,7 +7800,7 @@
       "name": "반가운 얼굴",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "야수를 뽑습니다.",
@@ -7440,6 +7809,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7457,7 +7829,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_375b",
@@ -7465,7 +7838,7 @@
       "name": "행복한 히피",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "야수를 <b>발견</b>합니다.",
@@ -7474,6 +7847,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7504,7 +7880,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_376",
@@ -7521,6 +7898,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7571,7 +7951,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_379",
@@ -7588,6 +7969,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7620,7 +8004,8 @@
           "name": "수집품 관련 카드 데이터베이스 ID",
           "value": 94211
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_379t",
@@ -7637,6 +8022,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7659,7 +8047,8 @@
           "name": "희귀도",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_382",
@@ -7680,7 +8069,8 @@
         "UNDEAD",
         "BEAST"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7742,7 +8132,8 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_384",
@@ -7759,6 +8150,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7786,7 +8180,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_385",
@@ -7806,7 +8201,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7868,7 +8264,8 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_386",
@@ -7888,7 +8285,8 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "QUILBOAR",
+      "race": "가시멧돼지",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -7970,7 +8368,8 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_386t",
@@ -7978,7 +8377,7 @@
       "name": "포그스나우트 팬",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>",
@@ -7990,7 +8389,8 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "QUILBOAR",
+      "race": "가시멧돼지",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8031,7 +8431,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_387",
@@ -8048,6 +8449,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -8099,7 +8502,8 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_387b",
@@ -8107,7 +8511,7 @@
       "name": "고대정령의 선율",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "2턴 후에,\n5/5 고대정령을\n셋 소환합니다. <b>(비밀)</b>",
@@ -8116,6 +8520,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -8144,7 +8550,8 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_387bt",
@@ -8152,7 +8559,7 @@
       "name": "고대정령",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -8161,6 +8568,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8193,7 +8603,8 @@
           "name": "게임 태그 2871",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_387c",
@@ -8201,7 +8612,7 @@
       "name": "거인의 춤",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 4,
       "text": "4턴 후에,\n8/8 거인을 셋 소환합니다. <b>(비밀)</b>",
@@ -8210,6 +8621,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "NATURE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -8238,7 +8651,8 @@
           "name": "주문 속성",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_387ct",
@@ -8246,7 +8660,7 @@
       "name": "거인",
       "type": "MINION",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 8,
       "text": "",
@@ -8255,6 +8669,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8282,7 +8699,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_388",
@@ -8299,6 +8717,9 @@
       "durability": 3,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8360,7 +8781,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_394",
@@ -8377,6 +8799,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FEL",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -8428,7 +8852,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_395",
@@ -8445,6 +8870,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8500,7 +8928,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_398",
@@ -8520,7 +8949,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8576,7 +9006,8 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_399",
@@ -8593,6 +9024,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8654,7 +9088,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_400",
@@ -8671,6 +9106,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8716,7 +9154,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_405",
@@ -8733,6 +9172,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8795,7 +9237,8 @@
         "TRIGGER_VISUAL",
         "DEATHRATTLE",
         "OUTCAST"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_408",
@@ -8812,6 +9255,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8863,7 +9309,8 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_409",
@@ -8883,7 +9330,8 @@
       "races": [
         "ALL"
       ],
-      "race": "ALL",
+      "race": "모든 종족",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -8954,7 +9402,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_410",
@@ -8974,7 +9423,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9041,7 +9491,8 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_411",
@@ -9058,6 +9509,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9104,7 +9558,8 @@
       "mechanics": [
         "RUSH",
         "OUTCAST"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_413",
@@ -9121,6 +9576,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9161,7 +9619,8 @@
       ],
       "mechanics": [
         "IMMUNE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_417",
@@ -9178,6 +9637,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FIRE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -9216,7 +9677,8 @@
           "name": "주문 속성",
           "value": 2
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_418",
@@ -9233,6 +9695,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9278,7 +9743,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_419",
@@ -9298,7 +9764,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9355,7 +9822,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_420",
@@ -9372,6 +9840,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9417,7 +9888,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_422",
@@ -9437,7 +9909,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9498,7 +9971,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_423",
@@ -9515,6 +9989,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9587,7 +10064,8 @@
         "TRIGGER_VISUAL",
         "DEATHRATTLE",
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_423t",
@@ -9595,7 +10073,7 @@
       "name": "역병머리",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "<b>생명력 흡수</b>",
@@ -9607,7 +10085,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9648,7 +10127,8 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_424",
@@ -9665,6 +10145,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9705,7 +10188,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_425",
@@ -9722,6 +10206,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9783,7 +10270,8 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_425t",
@@ -9791,7 +10279,7 @@
       "name": "음향로봇",
       "type": "MINION",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 3,
       "text": "",
@@ -9803,7 +10291,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9836,7 +10325,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_427",
@@ -9853,6 +10343,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9890,7 +10383,8 @@
           "name": "혈기 룬",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_427t",
@@ -9907,6 +10401,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -9934,7 +10431,8 @@
           "name": "혈기 룬",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_428",
@@ -9954,7 +10452,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10026,7 +10525,8 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_449",
@@ -10043,6 +10543,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10075,7 +10578,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_506",
@@ -10092,6 +10596,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -10143,7 +10649,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_506t",
@@ -10160,6 +10667,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "HOLY",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -10201,7 +10710,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_518",
@@ -10218,6 +10728,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10280,7 +10793,8 @@
         "TRIGGER_VISUAL",
         "DEATHRATTLE",
         "COMBO"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_520",
@@ -10297,6 +10811,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10353,7 +10870,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_521",
@@ -10370,6 +10888,9 @@
       "durability": 3,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10415,7 +10936,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_521t",
@@ -10423,7 +10945,7 @@
       "name": "우주의 창조물",
       "type": "MINION",
       "cardClass": "MAGE",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -10435,7 +10957,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10468,7 +10991,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_522",
@@ -10488,7 +11012,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10555,7 +11080,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_522t",
@@ -10563,7 +11089,7 @@
       "name": "광팬",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 1,
       "text": "",
@@ -10575,7 +11101,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10608,7 +11135,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_523",
@@ -10628,7 +11156,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10684,7 +11213,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_526",
@@ -10704,7 +11234,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10787,7 +11318,8 @@
         "TAUNT",
         "CHARGE",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_526t",
@@ -10795,7 +11327,7 @@
       "name": "역병 멧돼지",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 9,
       "text": "<b>돌진</b>\n<b>도발</b>",
@@ -10808,7 +11340,8 @@
         "UNDEAD",
         "BEAST"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -10865,7 +11398,8 @@
       "mechanics": [
         "TAUNT",
         "CHARGE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_528",
@@ -10882,6 +11416,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "ARCANE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -10920,7 +11456,8 @@
           "name": "주문 속성",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_532",
@@ -10937,6 +11474,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "ARCANE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -10983,7 +11522,8 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_533",
@@ -11000,6 +11540,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11050,7 +11593,8 @@
       ],
       "mechanics": [
         "REBORN"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_534",
@@ -11067,6 +11611,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11112,7 +11659,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_535",
@@ -11129,6 +11677,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11156,7 +11707,8 @@
           "name": "수집 가능",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_536",
@@ -11176,7 +11728,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11227,7 +11780,8 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_540",
@@ -11244,6 +11798,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11289,7 +11846,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_541",
@@ -11309,7 +11867,8 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11375,7 +11934,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_542",
@@ -11392,6 +11952,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11447,7 +12010,8 @@
       ],
       "mechanics": [
         "TAUNT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_543",
@@ -11464,6 +12028,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11514,7 +12081,8 @@
       ],
       "mechanics": [
         "DIVINE_SHIELD"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_717",
@@ -11531,6 +12099,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -11569,7 +12139,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_717t",
@@ -11586,6 +12157,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -11614,7 +12187,8 @@
           "name": "주문 속성",
           "value": 6
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_742",
@@ -11634,7 +12208,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11691,7 +12266,8 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_813",
@@ -11708,6 +12284,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11770,7 +12349,8 @@
         "TRIGGER_VISUAL",
         "OVERLOAD",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_831",
@@ -11790,7 +12370,8 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "QUILBOAR",
+      "race": "가시멧돼지",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11838,7 +12419,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_832",
@@ -11855,6 +12437,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11911,7 +12496,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DEATHRATTLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_833",
@@ -11931,7 +12517,8 @@
       "races": [
         "NAGA"
       ],
-      "race": "NAGA",
+      "race": "나가",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -11982,7 +12569,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_836",
@@ -12002,7 +12590,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12074,7 +12663,8 @@
       "mechanics": [
         "BATTLECRY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_838",
@@ -12091,6 +12681,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12126,7 +12719,8 @@
       ],
       "mechanics": [
         "DORMANT"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_840",
@@ -12146,7 +12740,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12203,7 +12798,8 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "ETC_t8t",
@@ -12211,7 +12807,7 @@
       "name": "지루한 파멸의 군주",
       "type": "MINION",
       "cardClass": "WARLOCK",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 6,
       "text": "<b>도발</b>\n<b>환생</b>",
@@ -12223,7 +12819,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12270,7 +12867,8 @@
       "mechanics": [
         "TAUNT",
         "REBORN"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_000",
@@ -12290,7 +12888,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12343,7 +12942,8 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_000t",
@@ -12363,7 +12963,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12419,7 +13020,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_000t2",
@@ -12439,7 +13041,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12495,7 +13098,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_000t3",
@@ -12515,7 +13119,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12571,7 +13176,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_000t4",
@@ -12591,7 +13197,8 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "MECHANICAL",
+      "race": "기계",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12653,7 +13260,8 @@
       "mechanics": [
         "BATTLECRY",
         "SECRET"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_001",
@@ -12670,6 +13278,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12752,6 +13363,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "ARCANE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -12821,6 +13434,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12861,7 +13477,8 @@
       ],
       "mechanics": [
         "SECRET"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_004",
@@ -12882,7 +13499,8 @@
         "UNDEAD",
         "BEAST"
       ],
-      "race": "UNDEAD",
+      "race": "언데드, 야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -12978,7 +13596,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13066,6 +13685,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FROST",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -13133,7 +13754,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13221,6 +13843,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13263,7 +13888,8 @@
           "name": "부정 룬",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_009",
@@ -13280,6 +13906,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13325,7 +13954,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_010",
@@ -13346,7 +13976,8 @@
         "MECHANICAL",
         "TOTEM"
       ],
-      "race": "MECHANICAL",
+      "race": "기계, 토템",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13433,6 +14064,9 @@
       "durability": 4,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13515,6 +14149,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13562,7 +14199,8 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_012t",
@@ -13579,6 +14217,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13629,7 +14270,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_012t2",
@@ -13646,6 +14288,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13696,7 +14341,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_012t3",
@@ -13713,6 +14359,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13763,7 +14412,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_012t4",
@@ -13780,6 +14430,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -13830,7 +14483,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_013",
@@ -13847,6 +14501,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FIRE",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -13932,7 +14588,8 @@
       "races": [
         "BEAST"
       ],
-      "race": "BEAST",
+      "race": "야수",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14020,6 +14677,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14067,7 +14727,8 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_015t",
@@ -14084,6 +14745,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14134,7 +14798,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_015t2",
@@ -14151,6 +14816,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14201,7 +14869,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_015t3",
@@ -14218,6 +14887,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14273,7 +14945,8 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_015t4",
@@ -14290,6 +14963,9 @@
       "durability": 2,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14357,7 +15033,8 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_016",
@@ -14377,7 +15054,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14465,6 +15143,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "FEL",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -14537,6 +15217,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14574,7 +15257,8 @@
           "name": "미니 세트",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_018t",
@@ -14591,6 +15275,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14618,7 +15305,8 @@
           "name": "변신 원본 카드",
           "value": 95856
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_018t2",
@@ -14635,6 +15323,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14662,7 +15353,8 @@
           "name": "변신 원본 카드",
           "value": 95856
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_018t3",
@@ -14679,6 +15371,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14706,7 +15401,8 @@
           "name": "변신 원본 카드",
           "value": 95856
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_018t4",
@@ -14723,6 +15419,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14750,7 +15449,8 @@
           "name": "변신 원본 카드",
           "value": 95856
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_018t5",
@@ -14758,7 +15458,7 @@
       "name": "울부짖는 광팬",
       "type": "MINION",
       "cardClass": "DEMONHUNTER",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 5,
       "text": "",
@@ -14770,7 +15470,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14803,7 +15504,8 @@
           "name": "카드 유형",
           "value": 4
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_019",
@@ -14820,6 +15522,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14910,7 +15615,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -14995,7 +15701,8 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "UNDEAD",
+      "race": "언데드",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15063,7 +15770,8 @@
         "COMBO",
         "POISONOUS",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_022",
@@ -15080,6 +15788,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -15160,7 +15870,8 @@
       "races": [
         "PIRATE"
       ],
-      "race": "PIRATE",
+      "race": "해적",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15245,7 +15956,8 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "ELEMENTAL",
+      "race": "정령",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15303,7 +16015,8 @@
           "name": "초과 치유",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_025",
@@ -15320,6 +16033,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15383,6 +16099,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15433,7 +16152,8 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_026a",
@@ -15441,7 +16161,7 @@
       "name": "마음을 달래는 멜로디",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 영웅 능력을 다시 사용할 수 있습니다.",
@@ -15450,6 +16170,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15467,7 +16190,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_026b",
@@ -15475,7 +16199,7 @@
       "name": "감동을 주는 가사",
       "type": "SPELL",
       "cardClass": "DRUID",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "내 다음 영웅 능력의 비용이 (0)이 됩니다.",
@@ -15484,6 +16208,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15501,7 +16228,8 @@
           "name": "카드 유형",
           "value": 5
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_027",
@@ -15518,6 +16246,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15597,7 +16328,7 @@
       "name": "조크 최고!",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "아군 하수인에게 공격력 +2와\n<b>속공</b>을 부여합니다.",
@@ -15606,6 +16337,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15653,7 +16387,7 @@
       "name": "미화소년!",
       "type": "SPELL",
       "cardClass": "PRIEST",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 2,
       "text": "아군 하수인에게 생명력 +2와 <b>생명력 흡수</b>를 부여합니다.",
@@ -15662,6 +16396,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15718,6 +16455,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15791,6 +16531,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15867,6 +16610,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -15928,7 +16674,8 @@
       "mechanics": [
         "TAUNT",
         "LIFESTEAL"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_031",
@@ -15945,6 +16692,8 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
       "spellSchool": "SHADOW",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
@@ -16012,7 +16761,8 @@
       "races": [
         "DEMON"
       ],
-      "race": "DEMON",
+      "race": "악마",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16099,6 +16849,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16154,7 +16907,8 @@
       ],
       "mechanics": [
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_033t",
@@ -16171,6 +16925,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16227,7 +16984,8 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_033t2",
@@ -16244,6 +17002,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16300,7 +17061,8 @@
       "mechanics": [
         "WINDFURY",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_033t3",
@@ -16317,6 +17079,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16373,7 +17138,8 @@
       "mechanics": [
         "LIFESTEAL",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_033t4",
@@ -16390,6 +17156,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16446,7 +17215,8 @@
       "mechanics": [
         "POISONOUS",
         "RUSH"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_034",
@@ -16463,6 +17233,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16524,7 +17297,8 @@
       "mechanics": [
         "BATTLECRY",
         "TRADEABLE"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_035",
@@ -16541,6 +17315,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16591,7 +17368,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_036",
@@ -16608,6 +17386,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16668,7 +17449,8 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_037",
@@ -16685,6 +17467,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16742,7 +17527,8 @@
           "name": "피날레",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     },
     {
       "id": "JAM_037t",
@@ -16750,7 +17536,7 @@
       "name": "록의 용암 픽",
       "type": "SPELL",
       "cardClass": "NEUTRAL",
-      "rarity": "FREE",
+      "rarity": "",
       "collectible": false,
       "cost": 0,
       "text": "턴이 끝날 때, 폭발하며 피해를 8 받습니다!\n<i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
@@ -16759,6 +17545,9 @@
       "durability": 0,
       "armor": 0,
       "art": "",
+      "races": [],
+      "race": "",
+      "spellSchool": "",
       "set": "BATTLE_OF_THE_BANDS",
       "nativeTags": [
         {
@@ -16796,7 +17585,8 @@
           "name": "비용 숨김",
           "value": 1
         }
-      ]
+      ],
+      "classes": []
     }
   ]
 }
