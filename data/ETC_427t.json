@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Dissonant Metal",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_427t",
     "dbfId": 91415,
     "name": "어긋난 메탈",
-    "text": "내 손에 있는 무작위 하수인 둘에게 +4/+4를 부여합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "text": "내 손에 있는 무작위 하수인 둘에게 +4/+4를 부여합니다.<br></br><i>(매 턴마다 바뀝니다.)</i>",
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -55,26 +52,9 @@
     ],
     "nativeRawText": "내 손에 있는 무작위 하수인 둘에게 +4/+4를 부여합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Dissonant Metal",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ETC_427t.png"
   }
 }

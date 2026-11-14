@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Arrow Smith",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_833",
     "dbfId": 91496,
     "name": "화살 대장장이",
@@ -77,26 +74,9 @@
     ],
     "nativeRawText": "내가 주문을 시전한 후에, 생명력이 가장 낮은 적에게 피해를 1 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Arrow Smith",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_833.png"
   }
 }

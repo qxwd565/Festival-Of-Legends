@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Summer Flowerchild",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_376",
     "dbfId": 94205,
     "name": "여름의 평화수호자",
-    "text": "<b>전투의 함성:</b> 비용이 (6) 이상인 카드를 2장 뽑습니다.\n<b>피날레:</b> 그 카드들의 비용이 (1) 감소합니다.",
+    "text": "<b>전투의 함성:</b> 비용이 (6) 이상인 카드를 2장 뽑습니다.<br></br><b>피날레:</b> 그 카드들의 비용이 (1) 감소합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -75,26 +72,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 비용이 (6) 이상인 카드를 2장 뽑습니다.\n<b>피날레:</b> 그 카드들의 비용이 (1) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Summer Flowerchild",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_376.png"
   }
 }

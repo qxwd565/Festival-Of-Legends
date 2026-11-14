@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Star Power",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_002",
     "dbfId": 96627,
     "name": "별의 힘",
@@ -78,26 +75,9 @@
     ],
     "nativeRawText": "무작위 적 하수인에게 피해를 $5 줍니다. 주는 피해를 1 감소시키고 반복합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Star Power",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/JAM_002.png"
   }
 }

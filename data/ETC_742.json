@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Rolling Stone",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_742",
     "dbfId": 88982,
     "name": "구르는 돌",
@@ -82,26 +79,9 @@
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 내가 마지막으로 낸 카드의 비용이 (1)이면, +1/+1을 얻습니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Rolling Stone",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_742.png"
   }
 }

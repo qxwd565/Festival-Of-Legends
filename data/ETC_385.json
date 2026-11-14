@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Groovy Cat",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_385",
     "dbfId": 94249,
     "name": "그루브 고양이",
@@ -87,26 +84,9 @@
     ],
     "nativeRawText": "<b>전투의 함성과 죽음의 메아리:</b> 이번 게임 동안 내 영웅 능력이 공격력을 +1 더 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Groovy Cat",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_385.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Annoy-o-Troupe",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_321",
     "dbfId": 90695,
     "name": "안녕극단",
-    "text": "<b>도발</b>, <b>천상의 보호막</b>\n<b>죽음의 메아리:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를 셋 소환합니다.",
+    "text": "<b>도발</b>, <b>천상의 보호막</b><br></br><b>죽음의 메아리:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를 셋 소환합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -92,28 +89,11 @@
     ],
     "nativeRawText": "<b>도발</b>, <b>천상의 보호막</b>\n<b>죽음의 메아리:</b> <b>도발</b>과 <b>천상의_보호막</b> 능력이 있는 1/2 기계를 셋 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    69718
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Annoy-o-Troupe",
+    "root": true,
+    "relatedIds": [
+      69718
+    ],
+    "art": "art/ETC_321.png"
   }
 }

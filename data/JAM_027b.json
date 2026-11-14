@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Poison Bloom!",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_027b",
     "dbfId": 98415,
     "name": "미화소년!",
@@ -63,26 +60,9 @@
     ],
     "nativeRawText": "아군 하수인에게 생명력 +2와 <b>생명력_흡수</b>를 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Poison Bloom!",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/JAM_027b.png"
   }
 }

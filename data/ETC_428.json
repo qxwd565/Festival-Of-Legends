@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Boneshredder",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_428",
     "dbfId": 91493,
     "name": "해골속주자",
@@ -97,26 +94,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>시체</b>를 5개 소모해 이번 게임에서 죽은 무작위 아군 하수인의 <b>죽음의 메아리</b>를 발동시키고 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Boneshredder",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_428.png"
   }
 }

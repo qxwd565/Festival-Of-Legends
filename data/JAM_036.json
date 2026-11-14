@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Magatha, Bane of Music",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_036",
     "dbfId": 94822,
     "name": "음악의 파멸 마가타",
-    "text": "<b>전투의 함성:</b> 카드를 5장\n뽑습니다. 주문을 뽑으면,\n그 주문을 상대편에게\n줍니다.",
+    "text": "<b>전투의 함성:</b> 카드를 5장<br></br>뽑습니다. 주문을 뽑으면,<br></br>그 주문을 상대편에게<br></br>줍니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -85,26 +82,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 카드를 5장\n뽑습니다. 주문을 뽑으면,\n그 주문을 상대편에게\n줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Magatha, Bane of Music",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/JAM_036.png"
   }
 }

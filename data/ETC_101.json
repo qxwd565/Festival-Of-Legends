@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Cowbell Soloist",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_101",
     "dbfId": 91885,
     "name": "워낭 솔로",
@@ -75,26 +72,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 전장에 다른 하수인이 없으면, 피해를 2 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Cowbell Soloist",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_101.png"
   }
 }

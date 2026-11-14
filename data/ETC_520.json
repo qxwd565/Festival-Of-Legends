@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Kodohide Drumkit",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_520",
     "dbfId": 90359,
     "name": "코도가죽 드럼 세트",
-    "text": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 1 줍니다.\n<i>(장착하고 있을 때 방어도를 얻으면 강화됩니다!)</i> ",
+    "text": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 1 줍니다.<br></br><i>(장착하고 있을 때 방어도를 얻으면 강화됩니다!)</i> ",
     "type": "WEAPON",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -80,26 +77,9 @@
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 @ 줍니다.\n<i>(장착하고 있을 때 방어도를 얻으면 강화됩니다!)</i> ",
     "nativeTextBuilder": 7,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Kodohide Drumkit",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_520.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Hardcore Cultist",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_209",
     "dbfId": 97528,
     "name": "극성 이교도",
-    "text": "<b>전투의 함성:</b>\n피해를 2 줍니다.\n<b>피날레:</b> 대신 모든 적에게 피해를 줍니다.",
+    "text": "<b>전투의 함성:</b><br></br>피해를 2 줍니다.<br></br><b>피날레:</b> 대신 모든 적에게 피해를 줍니다.",
     "type": "MINION",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -92,26 +89,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n피해를 2 줍니다.\n<b>피날레:</b> 대신 모든 적에게 피해를 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Hardcore Cultist",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_209.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Verse Riff",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_363",
     "dbfId": 92266,
     "name": "전개 악절",
-    "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 +2 얻습니다.\n<b>피날레:</b> 내 마지막 악절을 냅니다.",
+    "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 +2 얻습니다.<br></br><b>피날레:</b> 내 마지막 악절을 냅니다.",
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -65,31 +62,14 @@
     ],
     "nativeRawText": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 +2 얻습니다.\n<b>피날레:</b> 내 마지막 악절을 냅니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    92267,
-    92268,
-    92271,
-    92270
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Verse Riff",
+    "root": true,
+    "relatedIds": [
+      92267,
+      92268,
+      92271,
+      92270
+    ],
+    "art": "art/ETC_363.png"
   }
 }

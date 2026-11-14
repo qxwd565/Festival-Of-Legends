@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Static Waveform",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_089",
     "dbfId": 91175,
     "name": "잡음 파형정령",
-    "text": "매 턴이 시작될 때,\n공격력 또는 생명력을\n1 잃습니다.\n<i>(무작위로 선택)</i>",
+    "text": "매 턴이 시작될 때,<br></br>공격력 또는 생명력을<br></br>1 잃습니다.<br></br><i>(무작위로 선택)</i>",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -77,26 +74,9 @@
     ],
     "nativeRawText": "[x]매 턴이 시작될 때,\n공격력 또는 생명력을\n1 잃습니다.\n<i>(무작위로 선택)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Static Waveform",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_089.png"
   }
 }

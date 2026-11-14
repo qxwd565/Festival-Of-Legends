@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Arcanite Ripper",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_423",
     "dbfId": 91232,
     "name": "아케이나이트 절단도끼",
-    "text": "<b>죽음의 메아리:</b> <b>생명력 흡수</b> 능력이\n있는 1/1 언데드를 소환합니다.\n<i>(장착하고 있을 때 내 턴에 생명력이\n바뀌면 강화됩니다!)</i>",
+    "text": "<b>죽음의 메아리:</b> <b>생명력 흡수</b> 능력이<br></br>있는 1/1 언데드를 소환합니다.<br></br><i>(장착하고 있을 때 내 턴에 생명력이<br></br>바뀌면 강화됩니다!)</i>",
     "type": "WEAPON",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -95,28 +92,11 @@
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> <b>생명력 흡수</b> 능력이\n있는 @/@ 언데드를 소환합니다.\n<i>(장착하고 있을 때 내 턴에 생명력이\n바뀌면 강화됩니다!)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    91233
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Arcanite Ripper",
+    "root": true,
+    "relatedIds": [
+      91233
+    ],
+    "art": "art/ETC_423.png"
   }
 }

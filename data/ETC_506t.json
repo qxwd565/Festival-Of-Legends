@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Dissonant Disco",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_506t",
     "dbfId": 88555,
     "name": "어긋난 디스코",
-    "text": "비용이 1인 하수인을 <b>발견</b>합니다. 그 하수인에게 +5/+5를 부여하여 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "text": "비용이 1인 하수인을 <b>발견</b>합니다. 그 하수인에게 +5/+5를 부여하여 소환합니다.<br></br><i>(매 턴마다 바뀝니다.)</i>",
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
@@ -65,26 +62,9 @@
     ],
     "nativeRawText": "비용이 1인 하수인을 <b>발견</b>합니다. 그 하수인에게 +5/+5를 부여하여 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Dissonant Disco",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ETC_506t.png"
   }
 }

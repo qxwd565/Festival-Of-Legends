@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Molten Pick of ROCK",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_037t",
     "dbfId": 98419,
     "name": "록의 용암 픽",
-    "text": "턴이 끝날 때, 폭발하며 피해를 8 받습니다!\n<i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
+    "text": "턴이 끝날 때, 폭발하며 피해를 8 받습니다!<br></br><i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -65,26 +62,9 @@
     ],
     "nativeRawText": "턴이 끝날 때, 폭발하며 피해를 @ 받습니다!\n<i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Molten Pick of ROCK",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/JAM_037t.png"
   }
 }

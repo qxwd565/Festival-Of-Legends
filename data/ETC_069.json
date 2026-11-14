@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Crescendo",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_069",
     "dbfId": 90440,
     "name": "크레센도",
@@ -65,26 +62,9 @@
     ],
     "nativeRawText": "내게 탈진 피해를 줍니다. 그만큼 모든 적에게 피해를 줍니다.@내게 탈진 피해를 {0} 줍니다. 그만큼 모든 적에게 피해를 줍니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Crescendo",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_069.png"
   }
 }

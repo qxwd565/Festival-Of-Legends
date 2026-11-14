@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Crowd Surfer",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_104",
     "dbfId": 92243,
     "name": "관중 표류멀록",
-    "text": "<b>죽음의 메아리:</b> 다른 하수인에게 +1/+1과\n이 <b>죽음의 메아리</b> 능력을 부여합니다.",
+    "text": "<b>죽음의 메아리:</b> 다른 하수인에게 +1/+1과<br></br>이 <b>죽음의 메아리</b> 능력을 부여합니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -77,26 +74,9 @@
     ],
     "nativeRawText": "<b>죽음의 메아리:</b> 다른 하수인에게 +1/+1과\n이 <b>죽음의_메아리</b> 능력을 부여합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Crowd Surfer",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_104.png"
   }
 }

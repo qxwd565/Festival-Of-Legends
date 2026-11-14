@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Backup Tuning Fork",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_015t4",
     "dbfId": 95412,
     "name": "여분 소리굽쇠",
-    "text": "<b>전투의 함성:</b> <b>도발</b>\n하수인을 <b>발견</b>합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+    "text": "<b>전투의 함성:</b> <b>도발</b><br></br>하수인을 <b>발견</b>합니다.<br></br><i>(매 턴마다 바뀝니다.)</i>",
     "type": "WEAPON",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -90,26 +87,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b>\n하수인을 <b>발견</b>합니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> <b>도발</b> 하수인을 <b>발견</b>합니다.",
     "nativeTextBuilder": 6,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Backup Tuning Fork",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/JAM_015t4.png"
   }
 }

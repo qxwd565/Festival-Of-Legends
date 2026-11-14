@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ancient's Melody",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_387b",
     "dbfId": 97610,
     "name": "고대정령의 선율",
-    "text": "2턴 후에,\n5/5 고대정령을\n셋 소환합니다. <b>(비밀)</b>",
+    "text": "2턴 후에,<br></br>5/5 고대정령을<br></br>셋 소환합니다. <b>(비밀)</b>",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -55,26 +52,9 @@
     ],
     "nativeRawText": "2턴 후에,\n5/5 고대정령을\n셋 소환합니다. <b>(비밀)</b>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Ancient's Melody",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ETC_387b.png"
   }
 }

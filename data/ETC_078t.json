@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Broken Microphone",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_078t",
     "dbfId": 94858,
     "name": "부서진 마이크",
@@ -60,26 +57,9 @@
     ],
     "nativeRawText": "내 영웅이 받는 모든 피해가 1씩 증가합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Broken Microphone",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ETC_078t.png"
   }
 }

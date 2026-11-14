@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Crazed Conductor",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_070",
     "dbfId": 90461,
     "name": "광기의 지휘자",
-    "text": "<b>전투의 함성:</b> 내게 탈진 피해를 줍니다.\n그만큼 3/3 임프를 소환합니다.",
+    "text": "<b>전투의 함성:</b> 내게 탈진 피해를 줍니다.<br></br>그만큼 3/3 임프를 소환합니다.",
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -80,28 +77,11 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내게 탈진 피해를 줍니다.\n그만큼 3/3 임프를 소환합니다.@<b>전투의 함성:</b> 내게 탈진 피해를 {0} 줍니다.\n그만큼 3/3 임프를 소환합니다.",
     "nativeTextBuilder": 28,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    90988
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Crazed Conductor",
+    "root": true,
+    "relatedIds": [
+      90988
+    ],
+    "art": "art/ETC_070.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Worgen Roadie",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_098",
     "dbfId": 91511,
     "name": "늑대인간 공연 관리자",
-    "text": "<b>전투의 함성:</b> 상대편에게 0/3 악기 보관함을 소환해 줍니다.\n<i>(보관함을 부수고 무작위 무기를 획득하세요!)</i>",
+    "text": "<b>전투의 함성:</b> 상대편에게 0/3 악기 보관함을 소환해 줍니다.<br></br><i>(보관함을 부수고 무작위 무기를 획득하세요!)</i>",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -75,28 +72,11 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편에게 0/3 악기 보관함을 소환해 줍니다.\n<i>(보관함을 부수고 무작위 무기를 획득하세요!)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    94860
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Worgen Roadie",
+    "root": true,
+    "relatedIds": [
+      94860
+    ],
+    "art": "art/ETC_098.png"
   }
 }

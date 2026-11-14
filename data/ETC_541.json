@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Tony, King of Piracy",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_541",
     "dbfId": 92237,
     "name": "해적판의 왕 토니",
-    "text": "<b>전투의 함성:</b> 내 덱을\n상대편의 덱으로 교체합니다.\n<b>피날레:</b> 카드를 뽑습니다.",
+    "text": "<b>전투의 함성:</b> 내 덱을<br></br>상대편의 덱으로 교체합니다.<br></br><b>피날레:</b> 카드를 뽑습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -92,26 +89,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 덱을\n상대편의 덱으로 교체합니다.\n<b>피날레:</b> 카드를 뽑습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Tony, King of Piracy",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/ETC_541.png"
   }
 }

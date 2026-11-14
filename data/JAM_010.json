@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Jukebox Totem",
-  "card": {
+  "2023-06-01": {
     "id": "JAM_010",
     "dbfId": 95345,
     "name": "주크박스 토템",
-    "text": "내 턴이 끝날 때,\n 1/1 은빛 성기사단 신병을 소환합니다.",
+    "text": "내 턴이 끝날 때,<br></br> 1/1 은빛 성기사단 신병을 소환합니다.",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [
@@ -96,28 +93,11 @@
     ],
     "nativeRawText": "내 턴이 끝날 때,\n{1} {0} 은빛 성기사단 신병을 소환합니다.",
     "nativeTextBuilder": 46,
-    "releasedAt": "2023-06-01",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    1652
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Jukebox Totem",
+    "root": true,
+    "relatedIds": [
+      1652
+    ],
+    "art": "art/JAM_010.png"
   }
 }

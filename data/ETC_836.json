@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mister Mukla",
-  "card": {
+  "2023-04-12": {
     "id": "ETC_836",
     "dbfId": 91498,
     "name": "무클라 씨",
@@ -97,28 +94,11 @@
     ],
     "nativeRawText": "<b>속공</b>, <b>전투의 함성:</b> 상대편의 손을 바나나로 가득 채웁니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2023-04-12",
-    "releaseStatus": "verified"
-  },
-  "root": true,
-  "relatedIds": [
-    1694
-  ],
-  "expansion": {
-    "id": 1809,
-    "slug": "festival-of-legends",
-    "name": "전설노래자랑",
-    "type": "expansion",
-    "englishName": "Festival Of Legends"
-  },
-  "setOrder": 12,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Mister Mukla",
+    "root": true,
+    "relatedIds": [
+      1694
+    ],
+    "art": "art/ETC_836.png"
   }
 }
