@@ -7,63 +7,8 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-121_S.tif:909a48143b63461e8eebe7f9bf692eab",
-    "flavor": "넷이 먹다 하나가 죽었다고요? 농담이죠?",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>도발</b> 능력이 있는 1/4 원숭이를 소환합니다.\n<i>(원숭이 3마리 남음!)</i>",
-    "nativeTextBuilder": 7,
-    "englishName": "Barrel of Monkeys",
-    "root": true,
-    "relatedIds": [
-      97440,
-      97441,
-      67
-    ],
-    "art": "art/ETC_207.png"
+    "collectible": true
   }
 }

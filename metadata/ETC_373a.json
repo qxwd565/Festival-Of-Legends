@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_373a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-161_S.tif:6ed85bcbc8d54e50932bd24ddf9985c9",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "2/2 나무정령을 다섯 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Flower Power",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_373a.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_036",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-263_M.tif:807eb8f3e75e446c833efc03c58ba444",
+        "flavor": "하수인을 내면 좋아하는 다른 \"가사\"와 헷갈리지 마세요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 1932,
+            "name": "다이아몬드 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 카드를 5장\n뽑습니다. 주문을 뽑으면,\n그 주문을 상대편에게\n줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Magatha, Bane of Music",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/JAM_036.png"
+      }
+    }
+  }
+}

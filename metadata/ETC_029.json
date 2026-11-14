@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_029",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-026_M.tif:e03e761eb0d248dfbc9a72666820623e",
+        "flavor": "4키가 주력입니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 92
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 87653
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성:</b> 내 전장에\n다른 하수인이 없으면,\n<b>주문 공격력 +1</b>이 있는 1/2\n증폭기를 둘 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Keyboard Soloist",
+        "root": true,
+        "relatedIds": [
+          87653
+        ],
+        "art": "art/ETC_029.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_101",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-081_M.tif:d8b83bc6d03d4edd9e01716324be0640",
+        "flavor": "논평: 불쾌한 워낭 연주, 대체할 악기는?",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 내 전장에 다른 하수인이 없으면, 피해를 2 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Cowbell Soloist",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_101.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_105",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-078_M.tif:6ea0c160dbee453e98d9894af70166b1",
+        "flavor": "선 꽂아 주세요.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 21
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때, 내 손에 있는 무작위 하수인에게 +2/+2를 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Stereo Totem",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_105.png"
+      }
+    }
+  }
+}

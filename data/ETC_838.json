@@ -7,59 +7,8 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-021_S.tif:4fde19c8797b49ef8cccefdb846e0bda",
-    "flavor": "다음 곡을 소개합니다. 타운카의 꿈.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 손에서 비용이 가장 높은 야수를 소환합니다. 그 야수는 2턴 동안 <b>휴면</b> 상태가 됩니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Big Dreams",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_838.png"
+    "collectible": true
   }
 }

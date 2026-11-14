@@ -7,69 +7,10 @@
     "type": "MINION",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
     "attack": 3,
     "health": 6,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-014_M.tif:070b008caf244d5b877b5b26ddadd2b5",
-    "flavor": "모든 악기가 타악기가 됩니다.",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 무기가 파괴될 때마다 무작위 악마사냥꾼\n무기를 장착합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Instrument Smasher",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_400.png"
+    "collectible": true
   }
 }

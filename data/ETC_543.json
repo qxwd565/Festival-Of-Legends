@@ -7,74 +7,10 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
     "attack": 3,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-095_M.tif:7e3aaf7a02fe42baa4a60254cb1bd460",
-    "flavor": "천만 코볼트가 오우거 비트에 맞춰 세상을 밝히는 모습을 직접 보면 이게 현실이 맞나 싶을 겁니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2820,
-        "name": "피날레",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>천상의 보호막</b>, <b>피날레:</b>\n양옆의 하수인들에게 <b>천상의 보호막</b>을 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Candleraiser",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_543.png"
+    "collectible": true
   }
 }

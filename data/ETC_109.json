@@ -7,76 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "기계",
     "races": [
       "MECHANICAL"
     ],
-    "spellSchool": "",
     "cost": 1,
     "attack": 1,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-086_M.tif:2728ecf7ed014b92a5456bc552d6edcd",
-    "flavor": "안녕로봇, 에어 혼은 악기가 아니란다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 하수인을 선택합니다. 이 하수인이 살아있으면, 그 하수인은 공격할 수 없습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Annoying Fan",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_109.png"
+    "collectible": true
   }
 }

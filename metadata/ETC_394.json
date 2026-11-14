@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_394",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-012_S.tif:ae72ff5bbdf7411680b31e3163720442",
+        "flavor": "자극적인 맛!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          },
+          {
+            "id": 2820,
+            "name": "피날레",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $2 줍니다.\n<b>피날레:</b> 지옥 주문을 <b>발견</b>합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Taste of Chaos",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_394.png"
+      }
+    }
+  }
+}

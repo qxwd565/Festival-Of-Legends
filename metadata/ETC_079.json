@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_079",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-154_S.tif:069a9bdfb3304cc780e7398d95aab630",
+        "flavor": "한 곡 더.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "모든 아군 하수인을 내 손으로 다시 가져옵니다. 이번 턴에 그 하수인들의 비용이 (1)이 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Bounce Around (ft. Garona)",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_079.png"
+      }
+    }
+  }
+}

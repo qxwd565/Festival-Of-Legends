@@ -7,84 +7,10 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
     "attack": 4,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-045_M.tif:e4827e1cd6fd4fb0aca0f41b46e708dd",
-    "flavor": "헤다니스는 아제로스 전역에서 수백만 팬의 마음과 정신을 사로잡았습니다. 물론 암흑 마법과 무관하지요. 괜히 오해할까 봐 하는 소리는 아닙니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1932,
-        "name": "다이아몬드 카드 존재",
-        "value": 1
-      },
-      {
-        "id": 2821,
-        "name": "초과 치유",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 자신에게\n피해를 4 줍니다.\n<b>초과 치유:</b> 무작위 적에게 피해를 5 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Heartbreaker Hedanis",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_334.png"
+    "collectible": true
   }
 }

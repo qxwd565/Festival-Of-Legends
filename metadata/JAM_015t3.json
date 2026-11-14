@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_015t3",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-226_W.tif:4f2ab7f5983a42eb8167e07c7c35d542",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 314,
+            "name": "침묵 불가",
+            "value": 1
+          },
+          {
+            "id": 435,
+            "name": "변신 원본 카드",
+            "value": 95408
+          },
+          {
+            "id": 2165,
+            "name": "게임 태그 2165",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.\n<i>(매 턴마다 바뀝니다.)</i>@내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
+        "nativeTextBuilder": 6,
+        "englishName": "Curved Tuning Fork",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/JAM_015t3.png"
+      }
+    }
+  }
+}

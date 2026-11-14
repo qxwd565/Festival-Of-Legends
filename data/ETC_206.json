@@ -7,74 +7,8 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-116_S.tif:0fda4bfd2a9c40d590523bdcd69ae883",
-    "flavor": "MR에서 가사가 들리면 그게 더 이상한 겁니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 2820,
-        "name": "피날레",
-        "value": 1
-      },
-      {
-        "id": 4128,
-        "name": "게임 태그 4128",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]주문을 <b>발견</b>합니다. 그 주문의\n비용이 (1) 감소합니다.\n<b>피날레:</b> 턴이 끝나면 이 카드를\n내 손으로 다시 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Infinitize the Maxitude",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_206.png"
+    "collectible": true
   }
 }

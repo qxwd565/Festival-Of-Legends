@@ -7,64 +7,8 @@
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 7,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-057_S.tif:db165717e0c94f8fa45a08b7a374ec53",
-    "flavor": "좌석이 만 개면 표가 하나도 안 팔려도 만석 공연입니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 215,
-        "name": "과부하",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2731,
-        "name": "게임 태그 2731",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "비용이 6, 5, 4, 3인 무작위 하수인을 소환합니다.\n<b>과부하:</b> (2)",
-    "nativeTextBuilder": 0,
-    "englishName": "Pack the House",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_370.png"
+    "collectible": true
   }
 }

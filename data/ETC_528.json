@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-030_S.tif:977c9df122cc464392f25dd673d7ad07",
-    "flavor": "지금부터 레이저 피하기 게임을 시작하겠습니다.",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "적에게 피해를 $2씩 주는 광선 @개를 적들에게 발사합니다. 미래의 내 빛줄기 공연들이 광선을 1개 더 발사합니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Lightshow",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_528.png"
+    "collectible": true
   }
 }

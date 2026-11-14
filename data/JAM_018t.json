@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-231_S.tif:c2672ae07ef44cb29fcd0397ca8f9318",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 435,
-        "name": "변신 원본 카드",
-        "value": 95856
-      }
-    ],
-    "nativeRawText": "<b>모든</b> 하수인에게 피해를 $3 줍니다. 카드를 3장 뽑습니다. <i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 6,
-    "englishName": "Angsty Rhapsody",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/JAM_018t.png"
+    "collectible": false
   }
 }

@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 6,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-158_S.tif:a1df0c5c3b9d491f8c5893fc2742bda4",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      }
-    ],
-    "nativeRawText": "모든 하수인에게 피해를 $6 줍니다.\n3/3 팝스타를 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
-    "nativeTextBuilder": 0,
-    "englishName": "Dissonant Pop",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/ETC_314t.png"
+    "collectible": false
   }
 }

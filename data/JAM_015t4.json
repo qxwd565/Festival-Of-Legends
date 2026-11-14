@@ -7,89 +7,10 @@
     "type": "WEAPON",
     "cardClass": "WARRIOR",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
-    "health": 0,
-    "armor": 0,
     "durability": 2,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-227_W.tif:ec7f60a02a904357a8c99f95dfcd2d14",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 10
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 435,
-        "name": "변신 원본 카드",
-        "value": 95408
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 2165,
-        "name": "게임 태그 2165",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> <b>도발</b>\n하수인을 <b>발견</b>합니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> <b>도발</b> 하수인을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 6,
-    "englishName": "Backup Tuning Fork",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/JAM_015t4.png"
+    "collectible": false
   }
 }

@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_364",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-076_S.tif:ad478865d70c4a589e08ada2f1e826fd",
+        "flavor": "대체 무슨 말씀이시죠? 대에에에체 무슨 말씀이시죠? 후렴이 너무 반복적이라니 대체 무슨 말씀이시죠?",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2819,
+            "name": "게임 태그 2819",
+            "value": 1
+          },
+          {
+            "id": 2820,
+            "name": "피날레",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인을 뽑습니다. 그 하수인에게 +3/+3을 부여합니다.\n<b>피날레:</b> 내 마지막 악절을 냅니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Chorus Riff",
+        "root": true,
+        "relatedIds": [
+          92266,
+          92268,
+          92271,
+          92270
+        ],
+        "art": "art/ETC_364.png"
+      }
+    }
+  }
+}

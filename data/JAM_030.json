@@ -7,84 +7,10 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 30,
     "attack": 15,
     "health": 15,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-251_M.tif:7ca0e615db194c319604b3ad0f4f7251",
-    "flavor": "대단한 교향곡을 작곡하는 데에는 시간이 필요합니다. 한 20턴 이상요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 15
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 15
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 30
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>\n이 카드의 비용은\n내 덱에 있는 카드의\n수와 같습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Fanottem, Lord of the Opera",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_030.png"
+    "collectible": true
   }
 }

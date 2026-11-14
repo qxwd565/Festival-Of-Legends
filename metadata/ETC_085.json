@@ -1,0 +1,74 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_085",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-178_S.tif:eff9a6abffae4d60ab0131050e58bc6e",
+        "flavor": "최종 보스전에 끝내주게 어울리는 음악입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "악장을 <b>발견</b>하여 냅니다. 다른 악장 여섯을 내 덱에 섞어 넣습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Symphony of Sins",
+        "root": true,
+        "relatedIds": [
+          91963,
+          91964,
+          91965,
+          94743,
+          92042,
+          94744,
+          94745,
+          94746
+        ],
+        "art": "art/ETC_085.png"
+      }
+    }
+  }
+}

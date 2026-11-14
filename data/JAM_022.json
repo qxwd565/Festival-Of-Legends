@@ -10,79 +10,9 @@
       "PRIEST",
       "ROGUE"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-239_S.tif:3dba626c82bc4c7ab20265fc40f019e7",
-    "flavor": "이봐, 볼사트. 뭐라고 했어? 너 소리 꺼졌어.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 220,
-        "name": "연계",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 339,
-        "name": "침묵",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 96
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "하수인을 <b>침묵</b>시킵니다.\n<b>연계:</b> 그 하수인에게 피해도 $2 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Deafen",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_022.png"
+    "collectible": true
   }
 }

@@ -10,91 +10,14 @@
       "MAGE",
       "WARLOCK"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "악마",
     "races": [
       "DEMON"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-253_M.tif:979316b4e35748d4b43a8a7dbcbb7e3a",
-    "flavor": "대부분은 그림토템이 불을 지른 무대에서 공연하는 건 너무 위험하다고 생각하죠. 하지만 그에게는 이보다 완벽한 무대가 없다네요!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 264
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 1965,
-        "name": "임프",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 무작위 마법사와 흑마법사 화염 주문을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Fiddlefire Imp",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_032.png"
+    "collectible": true
   }
 }

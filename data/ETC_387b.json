@@ -7,54 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-173_S.tif:a250791b301542d88e1783da84d36d1e",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "2턴 후에,\n5/5 고대정령을\n셋 소환합니다. <b>(비밀)</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Ancient's Melody",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/ETC_387b.png"
+    "collectible": false
   }
 }

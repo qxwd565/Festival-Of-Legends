@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_405",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-011_W.tif:2b8c27a4ea9a45d79a2775cdfbd8eca1",
+        "flavor": "날이 서 있는데, 조율이 필요해 보이네요.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 1
+          },
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1333,
+            "name": "추방자",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>죽음의 메아리:</b>\n카드를 @장 뽑습니다.\n<i>(장착하고 있을 때 <b>추방자</b> 카드를 내면 강화됩니다.)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Glaivetar",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_405.png"
+      }
+    }
+  }
+}

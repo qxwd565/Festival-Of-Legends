@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_387",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": true,
+        "installed": true,
+        "portrait": "HS28-172_S.tif:9f4f1668412149a7ad43ba1f2e43c39a",
+        "flavor": "조크는 최신곡에서 뿌리를 찾기를 택했습니다. 나무뿌리처럼 말이죠.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          },
+          {
+            "id": 818,
+            "name": "게임 태그 818",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "<b>(비밀) 선택 -</b> 2턴 후에, 5/5 고대정령을 셋 소환합니다. 또는 4턴 후에, 8/8 거인을 셋 소환합니다.",
+        "nativeTextBuilder": 26,
+        "englishName": "Rhythm and Roots",
+        "root": true,
+        "relatedIds": [
+          97610,
+          97611,
+          97612,
+          97613
+        ],
+        "art": "art/ETC_387.png"
+      }
+    }
+  }
+}

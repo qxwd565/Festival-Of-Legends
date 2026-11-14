@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_535",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-114_S.tif:b890e459f1c946509e2ede50202581c4",
+        "flavor": "정기 오디오 프로세싱 기술이 발명된 후, 아제로스에는 대대적인 신스 열풍이 불었습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "비용이 1, 2, 3인\n무작위 정령을 내 손으로 가져옵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Synthesize",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_535.png"
+      }
+    }
+  }
+}

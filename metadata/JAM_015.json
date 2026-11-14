@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_015",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-223_W.tif:193a5852c19245519f1bb18053db10c5",
+        "flavor": "포크송은 있지만, 숟가락송은 없답니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1719,
+            "name": "변신 원본 시각 효과",
+            "value": 3
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]내 손에 있을 때\n매 턴마다 바뀌는 추가\n효과를 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Remixed Tuning Fork",
+        "root": true,
+        "relatedIds": [
+          95409,
+          95410,
+          95411,
+          95412
+        ],
+        "art": "art/JAM_015.png"
+      }
+    }
+  }
+}

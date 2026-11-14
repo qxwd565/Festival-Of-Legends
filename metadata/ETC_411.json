@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_411",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-010_S.tif:99962590b7204b90bb9655754347b8fc",
+        "flavor": "'복수'의 경호원들이 일사불란하게 움직여 혼란스러운 현장 질서를 정리했습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          },
+          {
+            "id": 1333,
+            "name": "추방자",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 56927
+          }
+        ],
+        "nativeRawText": "[x]<b>속공</b> 능력이 있는 1/1\n일리다리를 둘 소환합니다.\n<b>추방자:</b> 하나 더 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "SECURITY!!",
+        "root": true,
+        "relatedIds": [
+          56927
+        ],
+        "art": "art/ETC_411.png"
+      }
+    }
+  }
+}

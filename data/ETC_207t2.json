@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-123_S.tif:5d3070fdaeda4d639dabb73e67a66a1a",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      }
-    ],
-    "nativeRawText": "<b>도발</b> 능력이 있는 1/4 원숭이를 소환합니다.\n<i>(원숭이 1마리 남음!)</i>",
-    "nativeTextBuilder": 0,
-    "englishName": "Barrel of Monkeys",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/ETC_207t2.png"
+    "collectible": false
   }
 }

@@ -10,97 +10,15 @@
       "DEATHKNIGHT",
       "HUNTER"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "언데드, 야수",
     "races": [
       "UNDEAD",
       "BEAST"
     ],
-    "spellSchool": "",
     "cost": 6,
     "attack": 3,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-208_M.tif:d71cc65ed2b7410fa09b81223c019931",
-    "flavor": "이런... 공허한 사냥개가 우리에서 풀려났군요! 그래도 걱정하지 마세요. 아주 순하답니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 5
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 2542,
-        "name": "게임 태그 2542",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>생명력 흡수</b>, <b>속공</b>\n공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Hollow Hound",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_004.png"
+    "collectible": true
   }
 }

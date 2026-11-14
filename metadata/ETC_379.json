@@ -1,0 +1,62 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_379",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-168_S.tif:b4415e4a166c42e4ab572e68ef51bdeb",
+        "flavor": "이번 턴에 내 영웅에게 무지개를 띄워줍니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 94211
+          }
+        ],
+        "nativeRawText": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. 방어도를 +4 얻습니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Harmonic Mood",
+        "root": true,
+        "relatedIds": [
+          94211
+        ],
+        "art": "art/ETC_379.png"
+      }
+    }
+  }
+}

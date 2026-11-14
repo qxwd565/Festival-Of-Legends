@@ -7,74 +7,10 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-217_M.tif:69f06021ccdb4a41a7255f89db63a47f",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 435,
-        "name": "변신 원본 카드",
-        "value": 95454
-      },
-      {
-        "id": 2165,
-        "name": "게임 태그 2165",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성:</b> 0/3\n스테레오 토템을 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>@<b>전투의 함성:</b> 0/3 스테레오 토템을 소환합니다.",
-    "nativeTextBuilder": 6,
-    "englishName": "Loud Totemcarver",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/JAM_012t.png"
+    "collectible": false
   }
 }

@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_113t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-109_S.tif:0a4422fc91da48e9a19bc20a8edcc0d6",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]촬영한 카드들을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>@[x]촬영한 카드 {0}장을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>",
+        "nativeTextBuilder": 28,
+        "englishName": "Fizzle's Snapshot",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_113t.png"
+      }
+    }
+  }
+}

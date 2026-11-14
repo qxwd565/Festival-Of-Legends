@@ -1,0 +1,63 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_314",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-157_S.tif:460172b5b2a24a6ba5b12aff07e26626",
+        "flavor": "노래면 노래, 춤이면 춤, 랩이면 랩! 3인조 걸그룹의 환상적인 팝송!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "모든 하수인에게 피해를 $3 줍니다.\n6/6 팝스타를 소환합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Harmonic Pop",
+        "root": true,
+        "relatedIds": [
+          97461,
+          97459
+        ],
+        "art": "art/ETC_314.png"
+      }
+    }
+  }
+}

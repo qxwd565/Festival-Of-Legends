@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_084",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-066_W.tif:bb15b4dc12f346179fa713114c4c89fc",
+        "flavor": "연주하기만 해도 손가락은 불타고 영혼은 메마르겠지만, 현은 안 갈아줘도 된답니다!",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴에 내 영웅이 피해를 받을 때마다, 생명력을 #2 회복하고 그 피해를 막습니다.\n내구도를 1 잃습니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Felstring Harp",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_084.png"
+      }
+    }
+  }
+}

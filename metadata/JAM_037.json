@@ -1,0 +1,87 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_037",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-261_M.tif:e6efe9c8d8334bd595693daf33e81871",
+        "flavor": "아제로스 최초의 불길에서 나온 녹아내린 불씨로 기타를 치는 정예 타우렌 족장은 귀를 찢고 가슴을 쥐어짜내는 헤드뱅잉 솔로곡으로 마가타와 그녀의 사악한 일당을 물리쳐 앞으로 계속될 음악 세계를 혼자서 구원했습니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 98419
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          },
+          {
+            "id": 2820,
+            "name": "피날레",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>피날레:</b> 록 대결을 시작합니다!\n각 플레이어는 매 턴마다 마나를\n모두 소모하지 않으면 피해를\n8<i>(또는 그 이상)</i> 받습니다!",
+        "nativeTextBuilder": 0,
+        "englishName": "Elite Tauren Champion",
+        "root": true,
+        "relatedIds": [
+          98419
+        ],
+        "art": "art/JAM_037.png"
+      }
+    }
+  }
+}

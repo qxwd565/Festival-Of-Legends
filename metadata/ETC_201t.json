@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_201t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-119_S.tif:b0de3713d2de4a549024f8b09f8231de",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인에게 +1/+1을 부여합니다.\n<i>(바나나 2개 남음!)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Bunch of Bananas",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_201t.png"
+      }
+    }
+  }
+}

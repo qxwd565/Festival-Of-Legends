@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_085t6",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-183_S.tif:bc347f176e8049d3ae9ebde41671602c",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>생명력 흡수</b>\n적 영웅에게\n피해를 $6 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Movement of Desire",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_085t6.png"
+      }
+    }
+  }
+}

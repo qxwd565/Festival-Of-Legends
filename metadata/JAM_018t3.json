@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_018t3",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-233_S.tif:16a10dcc35f441adae683cbba8023932",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 435,
+            "name": "변신 원본 카드",
+            "value": 95856
+          }
+        ],
+        "nativeRawText": "<b>모든</b> 하수인에게 피해를 $3 줍니다.\n이번 턴에 내 영웅에게 공격력을 +5 부여합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+        "nativeTextBuilder": 6,
+        "englishName": "Emotional Rhapsody",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/JAM_018t3.png"
+      }
+    }
+  }
+}

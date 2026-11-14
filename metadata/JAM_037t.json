@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_037t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-262_S.tif:4ad95ecfe7ad40cc9becbb60f0eafc0f",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 8
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 401,
+            "name": "특수 발광 효과",
+            "value": 1
+          },
+          {
+            "id": 684,
+            "name": "비용 숨김",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "턴이 끝날 때, 폭발하며 피해를 @ 받습니다!\n<i>(또는 마나를 모두 소모하면 피해량이 +2 증가하고 상대편에게 줍니다.)</i>",
+        "nativeTextBuilder": 7,
+        "englishName": "Molten Pick of ROCK",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/JAM_037t.png"
+      }
+    }
+  }
+}

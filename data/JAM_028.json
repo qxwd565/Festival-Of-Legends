@@ -10,79 +10,10 @@
       "DRUID",
       "WARLOCK"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 5,
     "attack": 2,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-249_M.tif:2be5f596557a475781f6182811ae7288",
-    "flavor": "내 적의 피는 훌륭한 비료가 되지!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 258
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 2831,
-        "name": "게임 태그 2831",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "마나 대신 생명력을 비용으로 사용합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Blood Treant",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_028.png"
+    "collectible": true
   }
 }

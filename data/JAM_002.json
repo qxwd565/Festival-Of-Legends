@@ -10,74 +10,9 @@
       "HUNTER",
       "MAGE"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-206_S.tif:1089557162414f5592b920b298291653",
-    "flavor": "별점에 대한 고찰을 담은 곡입니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 349,
-        "name": "게임 태그 349",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 12
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "무작위 적 하수인에게 피해를 $5 줍니다. 주는 피해를 1 감소시키고 반복합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Star Power",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_002.png"
+    "collectible": true
   }
 }

@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
     "race": "기계",
     "races": [
       "MECHANICAL"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-200_M.tif:1e6a3ae86108420d9bc27638a7bc5b79",
-    "flavor": "\"내 건 공돈을 줬어!\" \"나는 공짜 아이스크림!\" \"... 난 폭발하는 양 두 마리라고. 이런 건 줘도 안 가져.\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 17
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1719,
-        "name": "변신 원본 시각 효과",
-        "value": 3
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]내 손에 있을 때\n매 턴마다 바뀌는 추가\n효과를 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Remixed Dispense-o-bot",
-    "root": true,
-    "relatedIds": [
-      94728,
-      94729,
-      94732,
-      94730
-    ],
-    "art": "art/JAM_000.png"
+    "collectible": true
   }
 }

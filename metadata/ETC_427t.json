@@ -1,0 +1,55 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_427t",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-127_S.tif:56f27dad8cdc4df48e1dc67bc2d22486",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 2196,
+            "name": "혈기 룬",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 손에 있는 무작위 하수인 둘에게 +4/+4를 부여합니다.\n<i>(매 턴마다 바뀝니다.)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Dissonant Metal",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_427t.png"
+      }
+    }
+  }
+}

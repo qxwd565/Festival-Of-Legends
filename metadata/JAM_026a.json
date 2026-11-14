@@ -1,0 +1,45 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "JAM_026a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-06-01",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-06-01": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-247_S.tif:5b4f695b76264ed4854786c91785c999",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "내 영웅 능력을 다시 사용할 수 있습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Soothing Melody",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/JAM_026a.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_110",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-082_M.tif:90c08e4186134740a046423c922c0148",
+        "flavor": "얼굴 없는 자들은 공포를 먹고 사는 요그사론의 하수인입니다. 지금도 카드 설명을 재탕하고 있다는 걸 여러분이 알아채면 어쩌나 걱정하고 있는 저희 개발팀의 공포를 먹고 있죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 하수인으로 변신합니다. 능력치는 3/3이 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Cover Artist",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_110.png"
+      }
+    }
+  }
+}

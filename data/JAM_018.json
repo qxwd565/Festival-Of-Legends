@@ -7,70 +7,8 @@
     "type": "SPELL",
     "cardClass": "DEMONHUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 5,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-230_S.tif:b2f9b69dbf0a4d068385ba9023214288",
-    "flavor": "\"이게 현실인가요?\" \"아뇨, 카드 게임입니다만.\"",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1719,
-        "name": "변신 원본 시각 효과",
-        "value": 3
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>모든</b> 하수인에게 피해를 $3 줍니다. 내 손에 있을 때 매 턴마다 바뀌는 추가 효과를 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Remixed Rhapsody",
-    "root": true,
-    "relatedIds": [
-      95857,
-      95860,
-      95861,
-      95862,
-      95863
-    ],
-    "art": "art/JAM_018.png"
+    "collectible": true
   }
 }

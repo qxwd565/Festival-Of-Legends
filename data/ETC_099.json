@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "용족",
     "races": [
       "DRAGON"
     ],
-    "spellSchool": "",
     "cost": 8,
     "attack": 8,
     "health": 8,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-077_M.tif:4bffa087c9b64df4b29b246ddfaa214b",
-    "flavor": "노래자랑에 참가하지 않고 홍보만 하는 이유가 다 있습니다. 죽여주는 라임은커녕 죽고 싶은 라임 실력을 갖춘 원시비룡이거든요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 8
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 8
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1720,
-        "name": "교환성",
-        "value": 1
-      },
-      {
-        "id": 1743,
-        "name": "덱 행동 비용",
-        "value": 1
-      },
-      {
-        "id": 2820,
-        "name": "피날레",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>교환성</b>\n<b>피날레:</b> 적 하수인을 처치합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Concert Promo-Drake",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_099.png"
+    "collectible": true
   }
 }

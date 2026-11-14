@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_098",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-097_M.tif:2ae9b45eff3c41d7809efad3f207c36f",
+        "flavor": "\"악기를 달라니까 저주받은 검을 가져와?!\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 94860
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 상대편에게 0/3 악기 보관함을 소환해 줍니다.\n<i>(보관함을 부수고 무작위 무기를 획득하세요!)</i>",
+        "nativeTextBuilder": 0,
+        "englishName": "Worgen Roadie",
+        "root": true,
+        "relatedIds": [
+          94860
+        ],
+        "art": "art/ETC_098.png"
+      }
+    }
+  }
+}

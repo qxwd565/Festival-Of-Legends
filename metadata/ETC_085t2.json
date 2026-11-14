@@ -1,0 +1,50 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_085t2",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-180_S.tif:ddc06550930d4a49a5240c034f70134b",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "내 덱에서 비용이 가장 높은 하수인을 뽑습니다. 그 하수인의 비용이 (6) 감소합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Movement of Pride",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_085t2.png"
+      }
+    }
+  }
+}

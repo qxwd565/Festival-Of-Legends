@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-042_S.tif:bfc1dc9f1f174ead916245aa0c46e7dd",
-    "flavor": "얼라이언스와 호드의 싸움만 치열한 줄 알았죠?",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "적 하수인 둘을 선택합니다. 그 하수인들이 서로 싸웁니다! 싸움에서 죽은 하수인들을 복사하여 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Fight Over Me",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_316.png"
+    "collectible": true
   }
 }

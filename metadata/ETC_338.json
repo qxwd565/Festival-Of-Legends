@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_338",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-039_S.tif:93bd3bddcc4a49db861dbb0dcdd66395",
+        "flavor": "16,000번째 생일을 맞은 그대를 사랑해.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          },
+          {
+            "id": 2820,
+            "name": "피날레",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인을 선택합니다. 그 하수인을 복사하여 내 손으로 가져옵니다.\n<b>피날레:</b> 두 하수인 모두에게 +1/+2을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Power Chord: Synchronize",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_338.png"
+      }
+    }
+  }
+}

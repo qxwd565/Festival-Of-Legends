@@ -7,76 +7,14 @@
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "나가",
     "races": [
       "NAGA"
     ],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-024_M.tif:06b2f850c82345e5ab0af81d78cde94c",
-    "flavor": "\"이게 <i>바이올린</i> 활이라뇨? 그게 무슨 소리예요?!\"",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 92
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내가 주문을 시전한 후에, 생명력이 가장 낮은 적에게 피해를 1 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Arrow Smith",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_833.png"
+    "collectible": true
   }
 }

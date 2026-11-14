@@ -7,54 +7,8 @@
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-109_S.tif:0a4422fc91da48e9a19bc20a8edcc0d6",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]촬영한 카드들을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>@[x]촬영한 카드 {0}장을\n내 손으로 가져옵니다.\n<i>(게임당 1회만 가능)</i>",
-    "nativeTextBuilder": 28,
-    "englishName": "Fizzle's Snapshot",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/ETC_113t.png"
+    "collectible": false
   }
 }

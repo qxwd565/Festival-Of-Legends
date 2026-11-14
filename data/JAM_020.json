@@ -10,86 +10,14 @@
       "ROGUE",
       "DEMONHUNTER"
     ],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "악마",
     "races": [
       "DEMON"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 2,
     "health": 1,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-237_M.tif:0bd0d428788a4c1a95be742b672fa117",
-    "flavor": "\"이딴 게 음악임? 내가 해도 그것보단 잘 할듯.\"",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 8256
-      },
-      {
-        "id": 1333,
-        "name": "추방자",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>추방자:</b> 하수인을 주인의 손으로 돌려보냅니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Tough Crowd",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_020.png"
+    "collectible": true
   }
 }

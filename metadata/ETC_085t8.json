@@ -1,0 +1,60 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_085t8",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-185_S.tif:e7ba733110ff4e5f9fe057390e83d458",
+        "flavor": "",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 1085,
+            "name": "환생",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>도발</b>과 <b>환생</b> 능력이 있는 6/6 악마를 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Movement of Sloth",
+        "root": false,
+        "relatedIds": [],
+        "art": "art/ETC_085t8.png"
+      }
+    }
+  }
+}

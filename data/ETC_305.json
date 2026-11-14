@@ -7,59 +7,9 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-155_S.tif:eecba24d1a0f4bcaa5b6d96a6b67acb0",
-    "flavor": "이유는 알 수 없지만, 음악에 의도적으로 왜곡 효과를 넣으면 수백 마리의 도마뱀붙이가 몰려든다고 합니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "nativeRawText": "하수인에게 -5/-5를 부여합니다. 그 하수인의 공격력이 0이면, 그 하수인을 처치합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Shadow Chord: Distort",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_305.png"
+    "collectible": true
   }
 }

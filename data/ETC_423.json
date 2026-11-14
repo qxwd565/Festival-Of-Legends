@@ -7,96 +7,10 @@
     "type": "WEAPON",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
     "attack": 3,
-    "health": 0,
-    "armor": 0,
     "durability": 2,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-005_W.tif:e0cfbb02ec3741b4876d1fe6f019e245",
-    "flavor": "해골 달린 기타라. 헤드뱅잉에 써먹기 완벽하네요.",
-    "nativeTags": [
-      {
-        "id": 2,
-        "name": "효과 수치 1",
-        "value": 1
-      },
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 91233
-      },
-      {
-        "id": 2196,
-        "name": "혈기 룬",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>죽음의 메아리:</b> <b>생명력 흡수</b> 능력이\n있는 @/@ 언데드를 소환합니다.\n<i>(장착하고 있을 때 내 턴에 생명력이\n바뀌면 강화됩니다!)</i>",
-    "nativeTextBuilder": 7,
-    "englishName": "Arcanite Ripper",
-    "root": true,
-    "relatedIds": [
-      91233
-    ],
-    "art": "art/ETC_423.png"
+    "collectible": true
   }
 }

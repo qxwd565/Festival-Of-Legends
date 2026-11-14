@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "COMMON",
     "race": "정령",
     "races": [
       "ELEMENTAL"
     ],
-    "spellSchool": "",
     "cost": 4,
     "attack": 3,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-241_M.tif:8ca1ab55b5fa412cb62b2f078a97da7e",
-    "flavor": "보조광을 잘 맞추려면 작은 빛의 정령을 배치하세요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1824,
-        "name": "미니 세트",
-        "value": 1
-      },
-      {
-        "id": 2820,
-        "name": "피날레",
-        "value": 1
-      },
-      {
-        "id": 2821,
-        "name": "초과 치유",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>피날레와 초과 치유:</b>\n다른 무작위 아군 하수인에게 +2/+2를 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Ambient Lightspawn",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/JAM_024.png"
+    "collectible": true
   }
 }

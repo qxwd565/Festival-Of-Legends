@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_335",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-044_S.tif:e8b7265f0012434d9ad782e2ea6992f5",
+        "flavor": "미화소년은 사로나이트 광산 노예라는 오래된 뮤지컬 그룹의 \"얼마나 감내해야 하는가 (우우 예아)\" 가사를 표절했다는 의혹을 받았습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          },
+          {
+            "id": 2311,
+            "name": "목표",
+            "value": 1
+          },
+          {
+            "id": 2329,
+            "name": "목표 지속 효과",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴마다 처음 시전하는 주문의 비용이 (2) 감소합니다. 내 턴에 주문을 시전하지 않을 때까지 지속됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Love Everlasting",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_335.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ETC_108",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-04-12",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-04-12": {
+        "nativeSetId": 1809,
+        "set": "BATTLE_OF_THE_BANDS",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS28-085_M.tif:758ccef033d74a2682ca69d485ae6d58",
+        "flavor": "\"집착? 아니야! 그냥 정예 타우렌 족장 노래를 진짜 진짜 진짜 진짜 진짜 진짜 진짜 진짜 좋아하는 것뿐이라고! 말투도, 하는 행동도, 생각도, 생활도, 숨 쉬는 것까지도!\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 하수인을 선택합니다. 이 하수인이 살아있으면, 그 하수인이 <b>은신</b>을 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Obsessive Fan",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/ETC_108.png"
+      }
+    }
+  }
+}

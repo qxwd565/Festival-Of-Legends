@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1809,
-    "set": "BATTLE_OF_THE_BANDS",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "FEL",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS28-062_S.tif:e9af5229a84f4761847d28cf612553fd",
-    "flavor": "지휘자가 팔을 열심히 휘저을수록 관현악단은 더욱더 뛰어난 실력을 발휘하죠. 진짜예요!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 7
-      },
-      {
-        "id": 1724,
-        "name": "게임 태그 1724",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내게 탈진 피해를 줍니다. 그만큼 모든 적에게 피해를 줍니다.@내게 탈진 피해를 {0} 줍니다. 그만큼 모든 적에게 피해를 줍니다.",
-    "nativeTextBuilder": 28,
-    "englishName": "Crescendo",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/ETC_069.png"
+    "collectible": true
   }
 }
